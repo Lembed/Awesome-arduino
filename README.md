@@ -1,5 +1,5 @@
 # awesome-arduino
-A curated list of awesome Arduino hardwares, libraries and softwares
+A curated list of awesome Arduino hardwares, libraries and projects
 - [Awesome Arduino](#awesome-Arduino)
     - [IDE](#ide)
     - [Librarys](#librarys)
@@ -16,6 +16,7 @@ A curated list of awesome Arduino hardwares, libraries and softwares
 * [arduino](https://github.com/arduino/Arduino) - office arduino ide
 * [ESP8266 IDE](https://github.com/esp8266/Arduino) - Arduino IDE for ESP8266
 * [Stino](https://github.com/Robot-Will/Stino) - A Sublime Text Plugin for Arduino
+* [attiny](https://github.com/damellis/attiny) - ATtiny microcontroller support for the Arduino IDE
 
 ## Librarys
 
@@ -29,6 +30,8 @@ A curated list of awesome Arduino hardwares, libraries and softwares
 * [duino](https://github.com/ecto/duino) - Arduino framework for node.js
 * [ino](https://github.com/amperka/ino) - Command line toolkit for working with Arduino hardware
 * [Webduino](https://github.com/sirleech/Webduino) - Arduino WebServer library
+* [TinyWebServer](https://github.com/ovidiucp/TinyWebServer) - Small web server for Arduino, fits in 10KB ROM, less than 512 bytes RAM
+* [ArduinoWebsocketClient](https://github.com/krohling/ArduinoWebsocketClient) - Websocket client for Arduino
 * [RF24](https://github.com/maniacbug/RF24) - Arduino driver for nRF24L01
 * [keysweeper](https://github.com/samyk/keysweeper) - KeySweeper is a stealthy Arduino-based device, camouflaged as a functioning USB ....
 * [aJson](https://github.com/interactive-matter/aJson) - an Arduino library to enable JSON processing with Arduino
@@ -40,6 +43,11 @@ A curated list of awesome Arduino hardwares, libraries and softwares
 * [Arduino-PID-Library](https://github.com/br3ttb/Arduino-PID-Library) -  a pid library for arduino writed by c++
 * [firmata](https://github.com/firmata/arduino) - firmata firmware for arduino
 * [RESTduino](https://github.com/jjg/RESTduino) - A sketch to provide a REST-like interface to the Arduino+Ethernet Shield
+* [Repetier-Firmware](https://github.com/repetier/Repetier-Firmware) - Firmware for Arduino based RepRap 3D printer
+* [uSpeech](https://github.com/arjo129/uSpeech) - Speech recognition toolkit for the arduino
+* [rocketscream/Low-Power](https://github.com/rocketscream/Low-Power) - Low Power Library for Arduino
+* [Arduino-Temperature-Control-Library](https://github.com/milesburton/Arduino-Temperature-Control-Library) - Arduino Library for Maxim Temperature Integrated Circuits
+* [ArduinoOBD](https://github.com/stanleyhuangyc/ArduinoOBD) - OBD-II library and sketches for Arduino
 
 ## Hardware
 
