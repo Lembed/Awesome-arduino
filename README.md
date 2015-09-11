@@ -22,7 +22,7 @@ A curated list of awesome Arduino hardwares, libraries and projects
 
 ## Librarys
 
-*Libraries for Arduino .*
+*Misc libraries for Arduino .*
 
 * [johnny-five](https://github.com/rwaldron/johnny-five) - JavaScript Robotics and IoT programming framework, Based on Arduino Firmata Protocol
 * [grbl](https://github.com/grbl/grbl) - An open source, embedded, high performance g-code-parser and CNC milling controller run on a straight Arduino
@@ -63,6 +63,7 @@ A curated list of awesome Arduino hardwares, libraries and projects
 * [RESTduino](https://github.com/jjg/RESTduino) - A sketch to provide a REST-like interface to the Arduino+Ethernet Shield
 * [aREST](https://github.com/marcoschwartz/aREST) - A RESTful environment for Arduino
 * [ArduinoWebsocketClient](https://github.com/krohling/ArduinoWebsocketClient) - Websocket client for Arduino
+* [esp8266](https://github.com/ssokol/esp8266) - ESP8266 Wifi library and sample code for Arduino 
 
 *Command line*
 
@@ -73,6 +74,7 @@ A curated list of awesome Arduino hardwares, libraries and projects
 *Host side program*
 
 * [Python-Arduino-Command-API](https://github.com/thearn/Python-Arduino-Command-API) - A Python library for communicating with Arduino microcontroller boards
+* [hidapi](https://github.com/signal11/hidapi) - A Simple library for communicating with USB and Bluetooth HID devices on Linux, Mac, and Windows. 
 
 
 ## Hardware
@@ -87,6 +89,7 @@ A curated list of awesome Arduino hardwares, libraries and projects
 *Tutorials for arduino flash.*
 
 * [Arduino-Tutorial-Series](https://github.com/sciguy14/Arduino-Tutorial-Series) - These are the supporting materials for my popular series of Tutorials on the Arduino Microcontroller Platform
+* [esp8266](https://github.com/raburton/esp8266) - Various bits of code for ESP8266
 
 
 ## Contributing
