@@ -1,4 +1,3 @@
-#[![Analytics](https://ga-beacon.appspot.com/UA-67438080-1/awesome-arduino/readme?pixel)](https://github.com/Lembed/awesome-arduino)
 # awesome-arduino
 A curated list of awesome Arduino hardwares, libraries and projects
 - [Awesome Arduino](#awesome-Arduino)
@@ -9,6 +8,8 @@ A curated list of awesome Arduino hardwares, libraries and projects
 - [Contributing](#contributing)
 
 - - -
+
+#[![Analytics](https://ga-beacon.appspot.com/UA-67438080-1/awesome-arduino/readme?pixel)](https://github.com/Lembed/awesome-arduino)
 
 ## IDE
 
