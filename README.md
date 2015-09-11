@@ -15,6 +15,7 @@ A curated list of awesome Arduino hardwares, libraries and softwares
 
 * [arduino](https://github.com/arduino/Arduino) - office arduino ide
 * [ESP8266 IDE](https://github.com/esp8266/Arduino) - Arduino IDE for ESP8266
+* [Stino](https://github.com/Robot-Will/Stino) - A Sublime Text Plugin for Arduino
 
 ## Librarys
 
