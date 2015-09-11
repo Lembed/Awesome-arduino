@@ -51,6 +51,11 @@ A curated list of awesome Arduino hardwares, libraries and projects
 * [Brain](https://github.com/kitschpatrol/Brain) - Arduino library for reading Neurosky EEG brainwave data
 * [Cryptosuite](https://github.com/Cathedrow/Cryptosuite) - Cryptographic suite for Arduino (SHA, HMAC-SHA) 
 * [rtclib](https://github.com/jcw/rtclib) - a lightweight date and time library for JeeNodes and Arduino's
+* [si4432](https://github.com/theGanymedes/si4432) - Si4432 Library for Arduino 
+* [RFM69](https://github.com/LowPowerLab/RFM69) - RFM69 library for RFM69W and RFM69HW (semtech SX1231, SX1231H) 
+* [RFM12B](https://github.com/LowPowerLab/RFM12B) - Arduino RFM12B library
+* [SPIFlash](https://github.com/LowPowerLab/SPIFlash) - Arduino library for read/write access to SPI flash memory chips 
+* [ov7670-no-ram-arduino-uno](https://github.com/ComputerNerd/ov7670-no-ram-arduino-uno) -  arduino library for ov7670
 
 *3D Printer .*
 
