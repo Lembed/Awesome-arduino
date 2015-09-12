@@ -80,7 +80,7 @@ A curated list of awesome Arduino hardwares, libraries and projects
 
 * [Python-Arduino-Command-API](https://github.com/thearn/Python-Arduino-Command-API) - A Python library for communicating with Arduino microcontroller boards
 * [hidapi](https://github.com/signal11/hidapi) - A Simple library for communicating with USB and Bluetooth HID devices on Linux, Mac, and Windows. 
-
+* [BlocklyDuino](https://github.com/BlocklyDuino/BlocklyDuino) - a web-based visual programming editor for arduino
 
 ## Hardware
 
