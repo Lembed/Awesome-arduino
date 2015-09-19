@@ -19,6 +19,7 @@ A curated list of awesome Arduino hardwares, libraries and projects
 * [ESP8266 IDE](https://github.com/esp8266/Arduino) - Arduino IDE for ESP8266
 * [Stino](https://github.com/Robot-Will/Stino) - A Sublime Text Plugin for Arduino
 * [attiny](https://github.com/damellis/attiny) - ATtiny microcontroller support for the Arduino IDE
+* [arduino-cmake](https://github.com/queezythegreat/arduino-cmake) - Arduino CMake Build system 
 
 ## Librarys
 
@@ -27,10 +28,8 @@ A curated list of awesome Arduino hardwares, libraries and projects
 * [johnny-five](https://github.com/rwaldron/johnny-five) - JavaScript Robotics and IoT programming framework, Based on Arduino Firmata Protocol
 * [grbl](https://github.com/grbl/grbl) - An open source, embedded, high performance g-code-parser and CNC milling controller run on a straight Arduino
 * [Arduino-IRremote](https://github.com/z3t0/Arduino-IRremote) - Infrared remote library for Arduino: send and receive infrared signals ....
-* [noduino](https://github.com/sbstjn/noduino) - JavaScript and Node.js Framework for controlling Arduino with HTML and WebSockets
 * [i2cdevlib](https://github.com/jrowberg/i2cdevlib) - I2C device library collection for AVR/Arduino or other C++-based MCUs
 * [duino](https://github.com/ecto/duino) - Arduino framework for node.js
-* [ino](https://github.com/amperka/ino) - Command line toolkit for working with Arduino hardware
 * [ArduinoWebsocketClient](https://github.com/krohling/ArduinoWebsocketClient) - Websocket client for Arduino
 * [RF24](https://github.com/maniacbug/RF24) - Arduino driver for nRF24L01
 * [keysweeper](https://github.com/samyk/keysweeper) - KeySweeper is a stealthy Arduino-based device, camouflaged as a functioning USB ....
@@ -56,6 +55,9 @@ A curated list of awesome Arduino hardwares, libraries and projects
 * [RFM12B](https://github.com/LowPowerLab/RFM12B) - Arduino RFM12B library
 * [SPIFlash](https://github.com/LowPowerLab/SPIFlash) - Arduino library for read/write access to SPI flash memory chips 
 * [ov7670-no-ram-arduino-uno](https://github.com/ComputerNerd/ov7670-no-ram-arduino-uno) -  arduino library for ov7670
+* [DHT-sensor-library](https://github.com/adafruit/DHT-sensor-library) - Arduino library for DHT11DHT22, etc Temp & Humidity Sensors
+* [rfid](https://github.com/miguelbalboa/rfid) - Arduino RFID Library for MFRC522
+
 
 *3D Printer .*
 
@@ -69,6 +71,8 @@ A curated list of awesome Arduino hardwares, libraries and projects
 * [aREST](https://github.com/marcoschwartz/aREST) - A RESTful environment for Arduino
 * [ArduinoWebsocketClient](https://github.com/krohling/ArduinoWebsocketClient) - Websocket client for Arduino
 * [esp8266](https://github.com/ssokol/esp8266) - ESP8266 Wifi library and sample code for Arduino 
+* [arduino_uip](https://github.com/ntruchsess/arduino_uip) - A plugin-replacement of the stock Arduino Ethernet library
+
 
 *Command line*
 
@@ -81,6 +85,11 @@ A curated list of awesome Arduino hardwares, libraries and projects
 * [Python-Arduino-Command-API](https://github.com/thearn/Python-Arduino-Command-API) - A Python library for communicating with Arduino microcontroller boards
 * [hidapi](https://github.com/signal11/hidapi) - A Simple library for communicating with USB and Bluetooth HID devices on Linux, Mac, and Windows. 
 * [BlocklyDuino](https://github.com/BlocklyDuino/BlocklyDuino) - a web-based visual programming editor for arduino
+* [noduino](https://github.com/sbstjn/noduino) - JavaScript and Node.js Framework for controlling Arduino with HTML and WebSockets
+* [ino](https://github.com/amperka/ino) - Command line toolkit for working with Arduino hardware
+* [usb-serial-for-android](https://github.com/mik3y/usb-serial-for-android) - Android USB host serial driver library for CDC, FTDI, Arduino and other devices
+* [rad](https://github.com/atduskgreg/rad) - Ruby Arduino Development
+
 
 ## Hardware
 
