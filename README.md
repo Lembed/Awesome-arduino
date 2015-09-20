@@ -59,8 +59,8 @@ A curated list of awesome Arduino hardwares, libraries and projects
 * [Arduino-DHT22](https://github.com/nethoncho/Arduino-DHT22) - Arduino library for the DHT22 humidity and temperature sensor
 * [rfid](https://github.com/miguelbalboa/rfid) - Arduino RFID Library for MFRC522
 * [Timer](https://github.com/JChristensen/Timer) - A fork of Simon Monk's Arduino Timer library
-* [HttpClient](https://github.com/nmattisson/HttpClient) - Http Client Library for the Spark Core
-
+* [esp-link](https://github.com/jeelabs/esp-link) - esp8266 wifi-serial bridge, outbound TCP, and arduino/AVR/LPC/NXP programmer 
+* [u8glib](https://github.com/olikraus/u8glib) - Arduino Monochrom Graphics Library for LCDs and OLEDs
 
 *3D Printer .*
 
@@ -77,7 +77,7 @@ A curated list of awesome Arduino hardwares, libraries and projects
 * [ArduinoWebsocketServer](https://github.com/ejeklint/ArduinoWebsocketServer) - a Websocket server running on an Arduino
 * [esp8266](https://github.com/ssokol/esp8266) - ESP8266 Wifi library and sample code for Arduino 
 * [arduino_uip](https://github.com/ntruchsess/arduino_uip) - A plugin-replacement of the stock Arduino Ethernet library
-
+* [HttpClient](https://github.com/nmattisson/HttpClient) - Http Client Library for the Spark Core
 
 *Command line*
 
