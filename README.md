@@ -89,7 +89,7 @@ A curated list of awesome Arduino hardwares, libraries and projects
 * [ino](https://github.com/amperka/ino) - Command line toolkit for working with Arduino hardware
 * [usb-serial-for-android](https://github.com/mik3y/usb-serial-for-android) - Android USB host serial driver library for CDC, FTDI, Arduino and other devices
 * [rad](https://github.com/atduskgreg/rad) - Ruby Arduino Development
-
+* [ardublock](https://github.com/taweili/ardublock) - a Block Programming Language for Arduino
 
 ## Hardware
 
