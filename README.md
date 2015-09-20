@@ -56,6 +56,7 @@ A curated list of awesome Arduino hardwares, libraries and projects
 * [SPIFlash](https://github.com/LowPowerLab/SPIFlash) - Arduino library for read/write access to SPI flash memory chips 
 * [ov7670-no-ram-arduino-uno](https://github.com/ComputerNerd/ov7670-no-ram-arduino-uno) -  arduino library for ov7670
 * [DHT-sensor-library](https://github.com/adafruit/DHT-sensor-library) - Arduino library for DHT11DHT22, etc Temp & Humidity Sensors
+* [Arduino-DHT22](https://github.com/nethoncho/Arduino-DHT22) - Arduino library for the DHT22 humidity and temperature sensor
 * [rfid](https://github.com/miguelbalboa/rfid) - Arduino RFID Library for MFRC522
 * [Timer](https://github.com/JChristensen/Timer) - A fork of Simon Monk's Arduino Timer library
 * [HttpClient](https://github.com/nmattisson/HttpClient) - Http Client Library for the Spark Core
@@ -64,6 +65,7 @@ A curated list of awesome Arduino hardwares, libraries and projects
 *3D Printer .*
 
 * [Repetier-Firmware](https://github.com/repetier/Repetier-Firmware) - Firmware for Arduino based RepRap 3D printer
+* [3D_Printer](https://github.com/underverk/3D_Printer) - Underverk's 3D printer 
 
 *NET Library.*
 
@@ -72,6 +74,7 @@ A curated list of awesome Arduino hardwares, libraries and projects
 * [RESTduino](https://github.com/jjg/RESTduino) - A sketch to provide a REST-like interface to the Arduino+Ethernet Shield
 * [aREST](https://github.com/marcoschwartz/aREST) - A RESTful environment for Arduino
 * [ArduinoWebsocketClient](https://github.com/krohling/ArduinoWebsocketClient) - Websocket client for Arduino
+* [ArduinoWebsocketServer](https://github.com/ejeklint/ArduinoWebsocketServer) - a Websocket server running on an Arduino
 * [esp8266](https://github.com/ssokol/esp8266) - ESP8266 Wifi library and sample code for Arduino 
 * [arduino_uip](https://github.com/ntruchsess/arduino_uip) - A plugin-replacement of the stock Arduino Ethernet library
 
@@ -92,6 +95,7 @@ A curated list of awesome Arduino hardwares, libraries and projects
 * [usb-serial-for-android](https://github.com/mik3y/usb-serial-for-android) - Android USB host serial driver library for CDC, FTDI, Arduino and other devices
 * [rad](https://github.com/atduskgreg/rad) - Ruby Arduino Development
 * [ardublock](https://github.com/taweili/ardublock) - a Block Programming Language for Arduino
+* [arduino-api](https://github.com/plotly/arduino-api) - Arduino library for real-time logging and streaming data to online plotly graphs
 
 ## Hardware
 
