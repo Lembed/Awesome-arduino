@@ -6,11 +6,12 @@ A curated list of awesome Arduino hardwares, libraries and projects
     - [Hardware](#hardware)
     - [Tutorials](#tutorials)
 - [Contributing](#contributing)
+
 #[![Analytics](https://ga-beacon.appspot.com/UA-67438080-1/awesome-arduino/readme?pixel)](https://github.com/Lembed/awesome-arduino)
 
 ## IDE
 
-*Arduino developments.*
+*Arduino developments*
 
 * [arduino](https://github.com/arduino/Arduino) - office arduino ide
 * [ESP8266 IDE](https://github.com/esp8266/Arduino) - Arduino IDE for ESP8266
@@ -20,7 +21,7 @@ A curated list of awesome Arduino hardwares, libraries and projects
 
 ## Librarys
 
-*Hardware dependent library *
+*Hardware dependent library*
 * [rtclib](https://github.com/jcw/rtclib) - a lightweight date and time library for JeeNodes and Arduino's
 * [si4432](https://github.com/theGanymedes/si4432) - Si4432 Library for Arduino 
 * [RFM69](https://github.com/LowPowerLab/RFM69) - RFM69 library for RFM69W and RFM69HW (semtech SX1231, SX1231H) 
@@ -34,7 +35,7 @@ A curated list of awesome Arduino hardwares, libraries and projects
 * [esp-link](https://github.com/jeelabs/esp-link) - esp8266 wifi-serial bridge, outbound TCP, and arduino/AVR/LPC/NXP programmer 
 * [Arduino-Temperature-Control-Library](https://github.com/milesburton/Arduino-Temperature-Control-Library) - Arduino Library for Maxim Temperature Integrated Circuits
 * [RF24](https://github.com/maniacbug/RF24) - Arduino driver for nRF24L01
-
+* [due_can](https://github.com/collin80/due_can) - Object oriented canbus library for Arduino Due compatible boards 
 
 *Hardware undependent library*
 
@@ -51,7 +52,7 @@ A curated list of awesome Arduino hardwares, libraries and projects
 * [Arduino-PID-Library](https://github.com/br3ttb/Arduino-PID-Library) -  a pid library for arduino writed by c++
 * [firmata](https://github.com/firmata/arduino) - firmata firmware for arduino
 * [uSpeech](https://github.com/arjo129/uSpeech) - Speech recognition toolkit for the arduino
-* [rocketscream/Low-Power](https://github.com/rocketscream/Low-Power) - Low Power Library for Arduino
+* [Low-Power](https://github.com/rocketscream/Low-Power) - Low Power Library for Arduino
 * [ArduinoOBD](https://github.com/stanleyhuangyc/ArduinoOBD) - OBD-II library and sketches for Arduino
 * [hiduino](https://github.com/ddiakopoulos/hiduino) - Native USB-MIDI on the Arduino
 * [Brain](https://github.com/kitschpatrol/Brain) - Arduino library for reading Neurosky EEG brainwave data
