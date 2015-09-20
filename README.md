@@ -58,6 +58,8 @@ A curated list of awesome Arduino hardwares, libraries and projects
 * [DHT-sensor-library](https://github.com/adafruit/DHT-sensor-library) - Arduino library for DHT11DHT22, etc Temp & Humidity Sensors
 * [rfid](https://github.com/miguelbalboa/rfid) - Arduino RFID Library for MFRC522
 * [Timer](https://github.com/JChristensen/Timer) - A fork of Simon Monk's Arduino Timer library
+* [HttpClient](https://github.com/nmattisson/HttpClient) - Http Client Library for the Spark Core
+
 
 *3D Printer .*
 
