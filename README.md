@@ -6,7 +6,6 @@ A curated list of awesome Arduino hardwares, libraries and projects
     - [Hardware](#hardware)
     - [Tutorials](#tutorials)
 - [Contributing](#contributing)
-- - -
 #[![Analytics](https://ga-beacon.appspot.com/UA-67438080-1/awesome-arduino/readme?pixel)](https://github.com/Lembed/awesome-arduino)
 
 ## IDE
