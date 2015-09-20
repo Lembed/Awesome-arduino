@@ -6,9 +6,7 @@ A curated list of awesome Arduino hardwares, libraries and projects
     - [Hardware](#hardware)
     - [Tutorials](#tutorials)
 - [Contributing](#contributing)
-
 - - -
-
 #[![Analytics](https://ga-beacon.appspot.com/UA-67438080-1/awesome-arduino/readme?pixel)](https://github.com/Lembed/awesome-arduino)
 
 ## IDE
@@ -23,32 +21,7 @@ A curated list of awesome Arduino hardwares, libraries and projects
 
 ## Librarys
 
-*Misc libraries for Arduino .*
-
-* [johnny-five](https://github.com/rwaldron/johnny-five) - JavaScript Robotics and IoT programming framework, Based on Arduino Firmata Protocol
-* [grbl](https://github.com/grbl/grbl) - An open source, embedded, high performance g-code-parser and CNC milling controller run on a straight Arduino
-* [Arduino-IRremote](https://github.com/z3t0/Arduino-IRremote) - Infrared remote library for Arduino: send and receive infrared signals ....
-* [i2cdevlib](https://github.com/jrowberg/i2cdevlib) - I2C device library collection for AVR/Arduino or other C++-based MCUs
-* [duino](https://github.com/ecto/duino) - Arduino framework for node.js
-* [ArduinoWebsocketClient](https://github.com/krohling/ArduinoWebsocketClient) - Websocket client for Arduino
-* [RF24](https://github.com/maniacbug/RF24) - Arduino driver for nRF24L01
-* [keysweeper](https://github.com/samyk/keysweeper) - KeySweeper is a stealthy Arduino-based device, camouflaged as a functioning USB ....
-* [aJson](https://github.com/interactive-matter/aJson) - an Arduino library to enable JSON processing with Arduino
-* [ArduinoJson](https://github.com/bblanchon/ArduinoJson) - An efficient JSON library for embedded systems
-* [USB_Host_Shield_2.0](https://github.com/felis/USB_Host_Shield_2.0) - Revision 2.0 of USB Host Library for Arduino
-* [pubsubclient](https://github.com/knolleary/pubsubclient) - A client library for the Arduino Ethernet Shield that provides support for MQTT
-* [WiringPi](https://github.com/WiringPi/WiringPi) - Gordon's Arduino wiring-like WiringPi Library for the Raspberry Pi
-* [dino](https://github.com/austinbv/dino) - Dino is a ruby gem that helps you bootstrap prototyping with an Arduino
-* [Arduino-PID-Library](https://github.com/br3ttb/Arduino-PID-Library) -  a pid library for arduino writed by c++
-* [firmata](https://github.com/firmata/arduino) - firmata firmware for arduino
-* [uSpeech](https://github.com/arjo129/uSpeech) - Speech recognition toolkit for the arduino
-* [rocketscream/Low-Power](https://github.com/rocketscream/Low-Power) - Low Power Library for Arduino
-* [Arduino-Temperature-Control-Library](https://github.com/milesburton/Arduino-Temperature-Control-Library) - Arduino Library for Maxim Temperature Integrated Circuits
-* [ArduinoOBD](https://github.com/stanleyhuangyc/ArduinoOBD) - OBD-II library and sketches for Arduino
-* [433Utils](https://github.com/ninjablocks/433Utils) - a collection of code and documentation to assist you usage of RF 433MHz modules 
-* [hiduino](https://github.com/ddiakopoulos/hiduino) - Native USB-MIDI on the Arduino
-* [Brain](https://github.com/kitschpatrol/Brain) - Arduino library for reading Neurosky EEG brainwave data
-* [Cryptosuite](https://github.com/Cathedrow/Cryptosuite) - Cryptographic suite for Arduino (SHA, HMAC-SHA) 
+*Hardware dependent library *
 * [rtclib](https://github.com/jcw/rtclib) - a lightweight date and time library for JeeNodes and Arduino's
 * [si4432](https://github.com/theGanymedes/si4432) - Si4432 Library for Arduino 
 * [RFM69](https://github.com/LowPowerLab/RFM69) - RFM69 library for RFM69W and RFM69HW (semtech SX1231, SX1231H) 
@@ -58,10 +31,34 @@ A curated list of awesome Arduino hardwares, libraries and projects
 * [DHT-sensor-library](https://github.com/adafruit/DHT-sensor-library) - Arduino library for DHT11DHT22, etc Temp & Humidity Sensors
 * [Arduino-DHT22](https://github.com/nethoncho/Arduino-DHT22) - Arduino library for the DHT22 humidity and temperature sensor
 * [rfid](https://github.com/miguelbalboa/rfid) - Arduino RFID Library for MFRC522
-* [Timer](https://github.com/JChristensen/Timer) - A fork of Simon Monk's Arduino Timer library
+* [433Utils](https://github.com/ninjablocks/433Utils) - a collection of code and documentation to assist you usage of RF 433MHz modules 
 * [esp-link](https://github.com/jeelabs/esp-link) - esp8266 wifi-serial bridge, outbound TCP, and arduino/AVR/LPC/NXP programmer 
-* [u8glib](https://github.com/olikraus/u8glib) - Arduino Monochrom Graphics Library for LCDs and OLEDs
-* [ucglib](https://github.com/olikraus/ucglib) - Arduino True Color Library for TFTs and OLEDs
+* [Arduino-Temperature-Control-Library](https://github.com/milesburton/Arduino-Temperature-Control-Library) - Arduino Library for Maxim Temperature Integrated Circuits
+* [RF24](https://github.com/maniacbug/RF24) - Arduino driver for nRF24L01
+
+
+*Hardware undependent library*
+
+* [johnny-five](https://github.com/rwaldron/johnny-five) - JavaScript Robotics and IoT programming framework, Based on Arduino Firmata Protocol
+* [grbl](https://github.com/grbl/grbl) - An open source, embedded, high performance g-code-parser and CNC milling controller run on a straight Arduino
+* [Arduino-IRremote](https://github.com/z3t0/Arduino-IRremote) - Infrared remote library for Arduino: send and receive infrared signals ....
+* [i2cdevlib](https://github.com/jrowberg/i2cdevlib) - I2C device library collection for AVR/Arduino or other C++-based MCUs
+* [keysweeper](https://github.com/samyk/keysweeper) - KeySweeper is a stealthy Arduino-based device, camouflaged as a functioning USB ....
+* [aJson](https://github.com/interactive-matter/aJson) - an Arduino library to enable JSON processing with Arduino
+* [ArduinoJson](https://github.com/bblanchon/ArduinoJson) - An efficient JSON library for embedded systems
+* [USB_Host_Shield_2.0](https://github.com/felis/USB_Host_Shield_2.0) - Revision 2.0 of USB Host Library for Arduino
+* [pubsubclient](https://github.com/knolleary/pubsubclient) - A client library for the Arduino Ethernet Shield that provides support for MQTT
+* [WiringPi](https://github.com/WiringPi/WiringPi) - Gordon's Arduino wiring-like WiringPi Library for the Raspberry Pi
+* [Arduino-PID-Library](https://github.com/br3ttb/Arduino-PID-Library) -  a pid library for arduino writed by c++
+* [firmata](https://github.com/firmata/arduino) - firmata firmware for arduino
+* [uSpeech](https://github.com/arjo129/uSpeech) - Speech recognition toolkit for the arduino
+* [rocketscream/Low-Power](https://github.com/rocketscream/Low-Power) - Low Power Library for Arduino
+* [ArduinoOBD](https://github.com/stanleyhuangyc/ArduinoOBD) - OBD-II library and sketches for Arduino
+* [hiduino](https://github.com/ddiakopoulos/hiduino) - Native USB-MIDI on the Arduino
+* [Brain](https://github.com/kitschpatrol/Brain) - Arduino library for reading Neurosky EEG brainwave data
+* [Cryptosuite](https://github.com/Cathedrow/Cryptosuite) - Cryptographic suite for Arduino (SHA, HMAC-SHA) 
+* [Timer](https://github.com/JChristensen/Timer) - A fork of Simon Monk's Arduino Timer library
+
 
 *3D Printer .*
 
@@ -80,13 +77,21 @@ A curated list of awesome Arduino hardwares, libraries and projects
 * [arduino_uip](https://github.com/ntruchsess/arduino_uip) - A plugin-replacement of the stock Arduino Ethernet library
 * [HttpClient](https://github.com/nmattisson/HttpClient) - Http Client Library for the Spark Core
 
-*Command line*
+*Command line library*
 
 * [platformio](https://github.com/platformio/platformio) - Cross-platform code builder and the missing library manager ....
 * [arduino-cmake](https://github.com/queezythegreat/arduino-cmake) - Arduino CMake Build system 
 * [bitlash](https://github.com/billroy/bitlash) - a programmable command shell for arduino
 
-*Host side program*
+*Display library*
+
+* [Arduino_LCD_Menu](https://github.com/DavidAndrews/Arduino_LCD_Menu) -  creates menu systems primarily useful for 16x2 or 16x4 LCD displays
+* [LiquidTWI2](https://github.com/lincomatic/LiquidTWI2) - high speed I2C LCD Library for Arduino, which supports MCP23008 and MCP23017 
+* [MENWIZ](https://github.com/brunialti/MENWIZ) - LCD menu library: short user code to manage complex menu structures 
+* [u8glib](https://github.com/olikraus/u8glib) - Arduino Monochrom Graphics Library for LCDs and OLEDs
+* [ucglib](https://github.com/olikraus/ucglib) - Arduino True Color Library for TFTs and OLEDs
+
+*Host side Control library*
 
 * [Python-Arduino-Command-API](https://github.com/thearn/Python-Arduino-Command-API) - A Python library for communicating with Arduino microcontroller boards
 * [hidapi](https://github.com/signal11/hidapi) - A Simple library for communicating with USB and Bluetooth HID devices on Linux, Mac, and Windows. 
@@ -97,6 +102,8 @@ A curated list of awesome Arduino hardwares, libraries and projects
 * [rad](https://github.com/atduskgreg/rad) - Ruby Arduino Development
 * [ardublock](https://github.com/taweili/ardublock) - a Block Programming Language for Arduino
 * [arduino-api](https://github.com/plotly/arduino-api) - Arduino library for real-time logging and streaming data to online plotly graphs
+* [dino](https://github.com/austinbv/dino) - Dino is a ruby gem that helps you bootstrap prototyping with an Arduino
+* [duino](https://github.com/ecto/duino) - Arduino framework for node.js
 
 ## Hardware
 
