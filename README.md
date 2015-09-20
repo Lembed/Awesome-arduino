@@ -61,6 +61,7 @@ A curated list of awesome Arduino hardwares, libraries and projects
 * [Timer](https://github.com/JChristensen/Timer) - A fork of Simon Monk's Arduino Timer library
 * [esp-link](https://github.com/jeelabs/esp-link) - esp8266 wifi-serial bridge, outbound TCP, and arduino/AVR/LPC/NXP programmer 
 * [u8glib](https://github.com/olikraus/u8glib) - Arduino Monochrom Graphics Library for LCDs and OLEDs
+* [ucglib](https://github.com/olikraus/ucglib) - Arduino True Color Library for TFTs and OLEDs
 
 *3D Printer .*
 
