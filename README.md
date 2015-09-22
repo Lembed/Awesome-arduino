@@ -5,6 +5,7 @@ A curated list of awesome Arduino hardwares, libraries and projects
     - [Librarys](#librarys)
     - [Hardware](#hardware)
     - [Tutorials](#tutorials)
+    - [Projects](#projects)
 - [Contributing](#contributing)
 
 ## IDE
@@ -122,6 +123,15 @@ A curated list of awesome Arduino hardwares, libraries and projects
 * [Arduino-Tutorial-Series](https://github.com/sciguy14/Arduino-Tutorial-Series) - These are the supporting materials for my popular series of Tutorials on the Arduino Microcontroller Platform
 * [esp8266](https://github.com/raburton/esp8266) - Various bits of code for ESP8266
 * [arduino_sketches](https://github.com/nickgammon/arduino_sketches) - Publicly-released sketches for the Arduino microprocessor 
+
+## Projects
+
+*Projects with Arduino*
+
+* Domotic
+  * [Erbbie Desktop Garden](http://www.instructables.com/id/Erbbie-Desktop-Smart-Garden/?ALLSTEPS) - is a DIY desktop smart garden designed to give everyone a green thumb
+  * [Smart Garden](http://www.instructables.com/id/Smart-Garden-1/?ALLSTEPS) - clone of Erbbie
+
 
 ## Contributing
 * [Contributing](https://github.com/lembed/awesome-arduino/blob/master/CONTRIBUTING.md)
