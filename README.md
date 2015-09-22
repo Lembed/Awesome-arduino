@@ -34,6 +34,10 @@ A curated list of awesome Arduino hardwares, libraries and projects
 * [Arduino-Temperature-Control-Library](https://github.com/milesburton/Arduino-Temperature-Control-Library) - Arduino Library for Maxim Temperature Integrated Circuits
 * [RF24](https://github.com/maniacbug/RF24) - Arduino driver for nRF24L01
 * [due_can](https://github.com/collin80/due_can) - Object oriented canbus library for Arduino Due compatible boards 
+* [FastLED](https://github.com/FastLED/FastLED) - easily & efficiently controlling a wide variety of LED chipsets for arduino
+
+*Bootloader*
+* [HoodLoader2](https://github.com/NicoHood/HoodLoader2) - 16u2 Bootloader to reprogram 16u2 + 328/2560 with Arduino IDE 
 
 *Hardware undependent library*
 
@@ -57,6 +61,7 @@ A curated list of awesome Arduino hardwares, libraries and projects
 * [Cryptosuite](https://github.com/Cathedrow/Cryptosuite) - Cryptographic suite for Arduino (SHA, HMAC-SHA) 
 * [Timer](https://github.com/JChristensen/Timer) - A fork of Simon Monk's Arduino Timer library
 * [PJON](https://github.com/gioblu/PJON) - One wire multi master device communications bus system for Arduino 
+* [HID](https://github.com/NicoHood/HID) - enhanced HID functions for Arduino
 
 *3D Printer .*
 
@@ -116,7 +121,7 @@ A curated list of awesome Arduino hardwares, libraries and projects
 
 * [Arduino-Tutorial-Series](https://github.com/sciguy14/Arduino-Tutorial-Series) - These are the supporting materials for my popular series of Tutorials on the Arduino Microcontroller Platform
 * [esp8266](https://github.com/raburton/esp8266) - Various bits of code for ESP8266
-
+* [arduino_sketches](https://github.com/nickgammon/arduino_sketches) - Publicly-released sketches for the Arduino microprocessor 
 
 ## Contributing
 * [Contributing](https://github.com/lembed/awesome-arduino/blob/master/CONTRIBUTING.md)
