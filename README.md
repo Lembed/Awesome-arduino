@@ -64,6 +64,8 @@ A curated list of awesome Arduino hardwares, libraries and projects
 * [PJON](https://github.com/gioblu/PJON) - One wire multi master device communications bus system for Arduino 
 * [HID](https://github.com/NicoHood/HID) - enhanced HID functions for Arduino
 * [Cosa](https://github.com/mikaelpatel/Cosa) - An Object-Oriented Platform for Arduino Programming
+* [NDEF](https://github.com/don/NDEF) - Read and Write NDEF Messages to NFC tags with Arduino
+
 
 *3D Printer .*
 
