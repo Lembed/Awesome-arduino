@@ -63,6 +63,7 @@ A curated list of awesome Arduino hardwares, libraries and projects
 * [Timer](https://github.com/JChristensen/Timer) - A fork of Simon Monk's Arduino Timer library
 * [PJON](https://github.com/gioblu/PJON) - One wire multi master device communications bus system for Arduino 
 * [HID](https://github.com/NicoHood/HID) - enhanced HID functions for Arduino
+* [Cosa](https://github.com/mikaelpatel/Cosa) - An Object-Oriented Platform for Arduino Programming
 
 *3D Printer .*
 
@@ -123,6 +124,8 @@ A curated list of awesome Arduino hardwares, libraries and projects
 * [Arduino-Tutorial-Series](https://github.com/sciguy14/Arduino-Tutorial-Series) - These are the supporting materials for my popular series of Tutorials on the Arduino Microcontroller Platform
 * [esp8266](https://github.com/raburton/esp8266) - Various bits of code for ESP8266
 * [arduino_sketches](https://github.com/nickgammon/arduino_sketches) - Publicly-released sketches for the Arduino microprocessor 
+* [DUEZoo](https://github.com/manitou48/DUEZoo) - Some proof-of-concept sketches and results for Arduino DUE
+
 
 ## Projects
 
