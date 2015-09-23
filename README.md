@@ -16,7 +16,6 @@ A curated list of awesome Arduino hardwares, libraries and projects
 * [ESP8266 IDE](https://github.com/esp8266/Arduino) - Arduino IDE for ESP8266
 * [Stino](https://github.com/Robot-Will/Stino) - A Sublime Text Plugin for Arduino
 * [attiny](https://github.com/damellis/attiny) - ATtiny microcontroller support for the Arduino IDE
-* [arduino-cmake](https://github.com/queezythegreat/arduino-cmake) - Arduino CMake Build system 
 
 ## Librarys
 
@@ -36,6 +35,16 @@ A curated list of awesome Arduino hardwares, libraries and projects
 * [RF24](https://github.com/maniacbug/RF24) - Arduino driver for nRF24L01
 * [due_can](https://github.com/collin80/due_can) - Object oriented canbus library for Arduino Due compatible boards 
 * [FastLED](https://github.com/FastLED/FastLED) - easily & efficiently controlling a wide variety of LED chipsets for arduino
+* [iot-playground](https://github.com/iot-playground/Arduino) - ESP8266 EasyIoT library and sensor examples
+* [espduino](https://github.com/tuanpmt/espduino) - ESP8266 network client (mqtt, restful) for Arduino
+* [esp_mqtt](https://github.com/tuanpmt/esp_mqtt) - MQTT client library for ESP8266 Soc
+* [esp_bridge](https://github.com/tuanpmt/esp_bridge) - ESP8266 firmware SLIP Command, support mqtt, restful client
+* [Ultrasonic-HC-SR04](https://github.com/JRodrigoTech/Ultrasonic-HC-SR04) - Ultrasonic HC-SR04 library for Arduino
+* [MPU-9250](https://github.com/kriswiner/MPU-9250) - Arduino sketch for MPU-9250 9DoF with AHRS sensor fusion 
+* [MPU-6050](https://github.com/kriswiner/MPU-6050) - Basic MPU-6050 Arduino sketch of sensor function
+* [MPU-9150](https://github.com/kriswiner/MPU-9150) - Arduino sketch for MPU-9150 9DoF with AHRS sensor fusion 
+* [LSM9DS0](https://github.com/kriswiner/LSM9DS0) - LSM9DS0 9DOF sensor AHRS sketch 
+* [arduino-ds1302](https://github.com/msparks/arduino-ds1302) - Arduino library for the DS1302 Real Time Clock chip 
 
 *Bootloader*
 * [HoodLoader2](https://github.com/NicoHood/HoodLoader2) - 16u2 Bootloader to reprogram 16u2 + 328/2560 with Arduino IDE 
@@ -45,6 +54,7 @@ A curated list of awesome Arduino hardwares, libraries and projects
 * [johnny-five](https://github.com/rwaldron/johnny-five) - JavaScript Robotics and IoT programming framework, Based on Arduino Firmata Protocol
 * [grbl](https://github.com/grbl/grbl) - An open source, embedded, high performance g-code-parser and CNC milling controller run on a straight Arduino
 * [Arduino-IRremote](https://github.com/z3t0/Arduino-IRremote) - Infrared remote library for Arduino: send and receive infrared signals ....
+* [IRLib](https://github.com/cyborg5/IRLib) - An Arduino library for encoding and decoding infrared remote signals 
 * [i2cdevlib](https://github.com/jrowberg/i2cdevlib) - I2C device library collection for AVR/Arduino or other C++-based MCUs
 * [keysweeper](https://github.com/samyk/keysweeper) - KeySweeper is a stealthy Arduino-based device, camouflaged as a functioning USB ....
 * [aJson](https://github.com/interactive-matter/aJson) - an Arduino library to enable JSON processing with Arduino
@@ -65,7 +75,24 @@ A curated list of awesome Arduino hardwares, libraries and projects
 * [HID](https://github.com/NicoHood/HID) - enhanced HID functions for Arduino
 * [Cosa](https://github.com/mikaelpatel/Cosa) - An Object-Oriented Platform for Arduino Programming
 * [NDEF](https://github.com/don/NDEF) - Read and Write NDEF Messages to NFC tags with Arduino
-
+* [rosserial](https://github.com/ros-drivers/rosserial) - ROS client library for small, embedded devices, such as Arduino
+* [SdFat](https://github.com/greiman/SdFat) - Arduino FAT16/FAT32 Library 
+* [Arduino-Communicator](https://github.com/jeppsson/Arduino-Communicator) - Very simple Android application for communicating with Arduino
+* [Arduino-PID-AutoTune-Library](https://github.com/br3ttb/Arduino-PID-AutoTune-Library) - 
+* [Cryptosuite](https://github.com/Cathedrow/Cryptosuite) - Cryptographic suite for Arduino
+* [TinyGPS](https://github.com/mikalhart/TinyGPS) - A compact Arduino NMEA (GPS) parsing library 
+* [Arduino-EEPROMEx](https://github.com/thijse/Arduino-EEPROMEx) - Extended EEPROM library for Arduino 
+* [Arduino-CmdMessenger](https://github.com/thijse/Arduino-CmdMessenger) - CmdMessenger Communication library for Arduino
+* [arduino-libs-manchester](https://github.com/mchr3k/arduino-libs-manchester) - Arduino Manchester Encoding
+* [ShiftPWM](https://github.com/elcojacobs/ShiftPWM) - Arduino Library for software PWM with shift registers 
+* [Arduino-EasyTransfer](https://github.com/madsci1016/Arduino-EasyTransfer) - An Easy way to Transfer data between Arduinos
+* [Arduino-SerialCommand](https://github.com/kroimon/Arduino-SerialCommand) - A Wiring/Arduino library to tokenize and parse commands received over a serial port.
+* [TMRpcm](https://github.com/TMRh20/TMRpcm) - Arduino library for asynchronous playback of PCM/WAV files direct from SD card
+* [Mozzi](https://github.com/sensorium/Mozzi) - a sound synthesis library for Arduino
+* [StandardCplusplus](https://github.com/maniacbug/StandardCplusplus) - Standard C++ for Arduino (port of uClibc++) 
+* [ArdOSC](https://github.com/recotana/ArdOSC) - Open Sound Control(OSC) Library for Arduino 
+* [arduino-serial](https://github.com/todbot/arduino-serial) - Example C and Java host code to talking to an arduino or other "serial" device
+* [Bounce2](https://github.com/thomasfredericks/Bounce2) - Debouncing library for Arduino or Wiring 
 
 *3D Printer .*
 
@@ -83,12 +110,15 @@ A curated list of awesome Arduino hardwares, libraries and projects
 * [esp8266](https://github.com/ssokol/esp8266) - ESP8266 Wifi library and sample code for Arduino 
 * [arduino_uip](https://github.com/ntruchsess/arduino_uip) - A plugin-replacement of the stock Arduino Ethernet library
 * [HttpClient](https://github.com/nmattisson/HttpClient) - Http Client Library for the Spark Core
+* [arduino-restclient](https://github.com/csquared/arduino-restclient) - Arduino RESTful HTTP Request Library 
+* [socket.io-arduino-client](https://github.com/billroy/socket.io-arduino-client) - A socket.io client for the Arduino Ethernet shield 
 
 *Command line library*
 
 * [platformio](https://github.com/platformio/platformio) - Cross-platform code builder and the missing library manager ....
 * [arduino-cmake](https://github.com/queezythegreat/arduino-cmake) - Arduino CMake Build system 
 * [bitlash](https://github.com/billroy/bitlash) - a programmable command shell for arduino
+* [arduino-shell](https://github.com/nuket/arduino-shell) - A command shell to interact with built-in Arduino features
 
 *Display library*
 
@@ -127,7 +157,7 @@ A curated list of awesome Arduino hardwares, libraries and projects
 * [esp8266](https://github.com/raburton/esp8266) - Various bits of code for ESP8266
 * [arduino_sketches](https://github.com/nickgammon/arduino_sketches) - Publicly-released sketches for the Arduino microprocessor 
 * [DUEZoo](https://github.com/manitou48/DUEZoo) - Some proof-of-concept sketches and results for Arduino DUE
-
+* [programming_arduino](https://github.com/simonmonk/programming_arduino) - Code for the book Programming Arduino: Getting Started with Sketches 
 
 ## Projects
 
