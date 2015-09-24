@@ -79,7 +79,6 @@ A curated list of awesome Arduino hardwares, libraries and projects
 * [SdFat](https://github.com/greiman/SdFat) - Arduino FAT16/FAT32 Library 
 * [Arduino-Communicator](https://github.com/jeppsson/Arduino-Communicator) - Very simple Android application for communicating with Arduino
 * [Arduino-PID-AutoTune-Library](https://github.com/br3ttb/Arduino-PID-AutoTune-Library) - 
-* [Cryptosuite](https://github.com/Cathedrow/Cryptosuite) - Cryptographic suite for Arduino
 * [TinyGPS](https://github.com/mikalhart/TinyGPS) - A compact Arduino NMEA (GPS) parsing library 
 * [Arduino-EEPROMEx](https://github.com/thijse/Arduino-EEPROMEx) - Extended EEPROM library for Arduino 
 * [Arduino-CmdMessenger](https://github.com/thijse/Arduino-CmdMessenger) - CmdMessenger Communication library for Arduino
@@ -163,10 +162,11 @@ A curated list of awesome Arduino hardwares, libraries and projects
 
 *Projects with Arduino*
 
-* Domotic
-  * [Erbbie Desktop Garden](http://www.instructables.com/id/Erbbie-Desktop-Smart-Garden/?ALLSTEPS) - is a DIY desktop smart garden designed to give everyone a green thumb
-  * [Smart Garden](http://www.instructables.com/id/Smart-Garden-1/?ALLSTEPS) - clone of Erbbie
-
+* [Erbbie Desktop Garden](http://www.instructables.com/id/Erbbie-Desktop-Smart-Garden/?ALLSTEPS) - is a DIY desktop smart garden designed to give everyone a green thumb
+* [Smart Garden](http://www.instructables.com/id/Smart-Garden-1/?ALLSTEPS) - clone of Erbbie
+* [arduinoscope](https://github.com/konsumer/arduinoscope) - An oscilloscope, using arduino and processing/node
+* [ArduinoPlot](https://github.com/gregpinero/ArduinoPlot) - Real time Plot Numeric Values sent from Arduino over Serial Port 
+* [ArduinoISP](https://github.com/rsbohn/ArduinoISP) - Use the Arduino to program AVR chips
 
 ## Contributing
 * [Contributing](https://github.com/lembed/awesome-arduino/blob/master/CONTRIBUTING.md)
