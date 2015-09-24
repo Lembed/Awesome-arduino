@@ -45,6 +45,7 @@ A curated list of awesome Arduino hardwares, libraries and projects
 * [MPU-9150](https://github.com/kriswiner/MPU-9150) - Arduino sketch for MPU-9150 9DoF with AHRS sensor fusion 
 * [LSM9DS0](https://github.com/kriswiner/LSM9DS0) - LSM9DS0 9DOF sensor AHRS sketch 
 * [arduino-ds1302](https://github.com/msparks/arduino-ds1302) - Arduino library for the DS1302 Real Time Clock chip 
+* [xbee-arduino](https://github.com/andrewrapp/xbee-arduino) - Arduino library for communicating with XBees in API mode
 
 *Bootloader*
 * [HoodLoader2](https://github.com/NicoHood/HoodLoader2) - 16u2 Bootloader to reprogram 16u2 + 328/2560 with Arduino IDE 
@@ -92,6 +93,7 @@ A curated list of awesome Arduino hardwares, libraries and projects
 * [ArdOSC](https://github.com/recotana/ArdOSC) - Open Sound Control(OSC) Library for Arduino 
 * [arduino-serial](https://github.com/todbot/arduino-serial) - Example C and Java host code to talking to an arduino or other "serial" device
 * [Bounce2](https://github.com/thomasfredericks/Bounce2) - Debouncing library for Arduino or Wiring 
+* [ArduinoThread](https://github.com/ivanseidel/ArduinoThread) - A simple way to run Threads on Arduino
 
 *3D Printer .*
 
@@ -157,6 +159,7 @@ A curated list of awesome Arduino hardwares, libraries and projects
 * [arduino_sketches](https://github.com/nickgammon/arduino_sketches) - Publicly-released sketches for the Arduino microprocessor 
 * [DUEZoo](https://github.com/manitou48/DUEZoo) - Some proof-of-concept sketches and results for Arduino DUE
 * [programming_arduino](https://github.com/simonmonk/programming_arduino) - Code for the book Programming Arduino: Getting Started with Sketches 
+* [ArduinoExamples](https://github.com/renaun/ArduinoExamples) - Arduino Blink Chrome App
 
 ## Projects
 
@@ -167,6 +170,7 @@ A curated list of awesome Arduino hardwares, libraries and projects
 * [arduinoscope](https://github.com/konsumer/arduinoscope) - An oscilloscope, using arduino and processing/node
 * [ArduinoPlot](https://github.com/gregpinero/ArduinoPlot) - Real time Plot Numeric Values sent from Arduino over Serial Port 
 * [ArduinoISP](https://github.com/rsbohn/ArduinoISP) - Use the Arduino to program AVR chips
+
 
 ## Contributing
 * [Contributing](https://github.com/lembed/awesome-arduino/blob/master/CONTRIBUTING.md)
