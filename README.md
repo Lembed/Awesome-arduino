@@ -46,6 +46,7 @@ A curated list of awesome Arduino hardwares, libraries and projects
 * [LSM9DS0](https://github.com/kriswiner/LSM9DS0) - LSM9DS0 9DOF sensor AHRS sketch 
 * [arduino-ds1302](https://github.com/msparks/arduino-ds1302) - Arduino library for the DS1302 Real Time Clock chip 
 * [xbee-arduino](https://github.com/andrewrapp/xbee-arduino) - Arduino library for communicating with XBees in API mode
+* [EnableInterrupt](https://github.com/GreyGnome/EnableInterrupt) - New Arduino interrupt library, designed for Arduino Uno/Mega 2560/Leonardo/Due 
 
 *Bootloader*
 * [HoodLoader2](https://github.com/NicoHood/HoodLoader2) - 16u2 Bootloader to reprogram 16u2 + 328/2560 with Arduino IDE 
@@ -94,6 +95,8 @@ A curated list of awesome Arduino hardwares, libraries and projects
 * [arduino-serial](https://github.com/todbot/arduino-serial) - Example C and Java host code to talking to an arduino or other "serial" device
 * [Bounce2](https://github.com/thomasfredericks/Bounce2) - Debouncing library for Arduino or Wiring 
 * [ArduinoThread](https://github.com/ivanseidel/ArduinoThread) - A simple way to run Threads on Arduino
+* [AdaEncoder](https://github.com/GreyGnome/AdaEncoder) - Library for handling quadrature encoders for the Arduino microcontroller
+* [PinChangeInt](https://github.com/GreyGnome/PinChangeInt) - Pin Change Interrupt library for the Arduino
 
 *3D Printer .*
 
@@ -113,6 +116,8 @@ A curated list of awesome Arduino hardwares, libraries and projects
 * [HttpClient](https://github.com/nmattisson/HttpClient) - Http Client Library for the Spark Core
 * [arduino-restclient](https://github.com/csquared/arduino-restclient) - Arduino RESTful HTTP Request Library 
 * [socket.io-arduino-client](https://github.com/billroy/socket.io-arduino-client) - A socket.io client for the Arduino Ethernet shield 
+* [Arduino-IPv6Stack](https://github.com/telecombretagne/Arduino-IPv6Stack) - IPv6 stack for Arduino and Xbee based on Contiki OS network stack 
+* [MQTT-SN-Arduino](https://github.com/boriz/MQTT-SN-Arduino) - Connecting mesh network to the MQTT broker and tunneling MQTT protocol over Websocket
 
 *Command line library*
 
