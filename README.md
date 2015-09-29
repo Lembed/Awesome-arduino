@@ -53,8 +53,6 @@ A curated list of awesome Arduino hardwares, libraries and projects
 
 *Hardware undependent library*
 
-* [johnny-five](https://github.com/rwaldron/johnny-five) - JavaScript Robotics and IoT programming framework, Based on Arduino Firmata Protocol
-* [grbl](https://github.com/grbl/grbl) - An open source, embedded, high performance g-code-parser and CNC milling controller run on a straight Arduino
 * [Arduino-IRremote](https://github.com/z3t0/Arduino-IRremote) - Infrared remote library for Arduino: send and receive infrared signals ....
 * [IRLib](https://github.com/cyborg5/IRLib) - An Arduino library for encoding and decoding infrared remote signals 
 * [i2cdevlib](https://github.com/jrowberg/i2cdevlib) - I2C device library collection for AVR/Arduino or other C++-based MCUs
@@ -102,6 +100,7 @@ A curated list of awesome Arduino hardwares, libraries and projects
 
 * [Repetier-Firmware](https://github.com/repetier/Repetier-Firmware) - Firmware for Arduino based RepRap 3D printer
 * [3D_Printer](https://github.com/underverk/3D_Printer) - Underverk's 3D printer 
+* [grbl](https://github.com/grbl/grbl) - An open source, embedded, high performance g-code-parser and CNC milling controller run on a straight Arduino
 
 *NET Library.*
 
@@ -137,6 +136,7 @@ A curated list of awesome Arduino hardwares, libraries and projects
 
 *Host side Control library*
 
+* [johnny-five](https://github.com/rwaldron/johnny-five) - JavaScript Robotics and IoT programming framework, Based on Arduino Firmata Protocol
 * [Python-Arduino-Command-API](https://github.com/thearn/Python-Arduino-Command-API) - A Python library for communicating with Arduino microcontroller boards
 * [hidapi](https://github.com/signal11/hidapi) - A Simple library for communicating with USB and Bluetooth HID devices on Linux, Mac, and Windows. 
 * [BlocklyDuino](https://github.com/BlocklyDuino/BlocklyDuino) - a web-based visual programming editor for arduino
@@ -148,6 +148,7 @@ A curated list of awesome Arduino hardwares, libraries and projects
 * [arduino-api](https://github.com/plotly/arduino-api) - Arduino library for real-time logging and streaming data to online plotly graphs
 * [dino](https://github.com/austinbv/dino) - Dino is a ruby gem that helps you bootstrap prototyping with an Arduino
 * [duino](https://github.com/ecto/duino) - Arduino framework for node.js
+* [pyFirmata](https://github.com/tino/pyFirmata) - Python interface for the Firmata  protocol
 
 ## Hardware
 
