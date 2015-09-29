@@ -16,6 +16,7 @@ A curated list of awesome Arduino hardwares, libraries and projects
 * [ESP8266 IDE](https://github.com/esp8266/Arduino) - Arduino IDE for ESP8266
 * [Stino](https://github.com/Robot-Will/Stino) - A Sublime Text Plugin for Arduino
 * [attiny](https://github.com/damellis/attiny) - ATtiny microcontroller support for the Arduino IDE
+* [arduinounit](https://github.com/mmurdoch/arduinounit) -  a unit testing framework for Arduino libraries 
 
 ## Librarys
 
@@ -95,6 +96,9 @@ A curated list of awesome Arduino hardwares, libraries and projects
 * [ArduinoThread](https://github.com/ivanseidel/ArduinoThread) - A simple way to run Threads on Arduino
 * [AdaEncoder](https://github.com/GreyGnome/AdaEncoder) - Library for handling quadrature encoders for the Arduino microcontroller
 * [PinChangeInt](https://github.com/GreyGnome/PinChangeInt) - Pin Change Interrupt library for the Arduino
+* [Arduino-RFID](https://github.com/mattwilliamson/Arduino-RFID) - Arduino RFID reader with computer serial client
+* [arcore](https://github.com/rkistner/arcore) - MIDI-USB Support for Arduino
+* [arduino-base64](https://github.com/adamvr/arduino-base64) - A base64 library for the arduino platform, written in C
 
 *3D Printer .*
 
@@ -175,6 +179,7 @@ A curated list of awesome Arduino hardwares, libraries and projects
 * [arduinoscope](https://github.com/konsumer/arduinoscope) - An oscilloscope, using arduino and processing/node
 * [ArduinoPlot](https://github.com/gregpinero/ArduinoPlot) - Real time Plot Numeric Values sent from Arduino over Serial Port 
 * [ArduinoISP](https://github.com/rsbohn/ArduinoISP) - Use the Arduino to program AVR chips
+* [arduino-sms-alarm](https://github.com/mattwilliamson/arduino-sms-alarm) - An Arduino based burglar alarm that sends an SMS when motion is detected
 * [Arduino Time Lapse Panorama Controller](http://www.instructables.com/id/Arduino-Time-Lapse-Panorama-Controller/) - The controller will rotate your GoPro over a set angle for a set duration or will rotate you GoPro for a full rotation for a set duration
 * [Erbbie Desktop Garden](http://www.instructables.com/id/Erbbie-Desktop-Smart-Garden/?ALLSTEPS) - is a DIY desktop smart garden designed to give everyone a green thumb
 * [Smart Garden](http://www.instructables.com/id/Smart-Garden-1/?ALLSTEPS) - clone of Erbbie
