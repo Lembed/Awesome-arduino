@@ -176,6 +176,7 @@ A curated list of awesome Arduino hardwares, libraries and projects
 * [Arduino Time Lapse Panorama Controller](http://www.instructables.com/id/Arduino-Time-Lapse-Panorama-Controller/) - The controller will rotate your GoPro over a set angle for a set duration or will rotate you GoPro for a full rotation for a set duration
 * [Erbbie Desktop Garden](http://www.instructables.com/id/Erbbie-Desktop-Smart-Garden/?ALLSTEPS) - is a DIY desktop smart garden designed to give everyone a green thumb
 * [Smart Garden](http://www.instructables.com/id/Smart-Garden-1/?ALLSTEPS) - clone of Erbbie
+* [Temperature controlled craft beer coolbox](http://www.instructables.com/id/temperature-controlled-craft-beer-coolbox/) - a coolbox in which you can control the temperature in three separate compartments 
 
 
 ## Contributing
