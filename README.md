@@ -99,6 +99,7 @@ A curated list of awesome Arduino hardwares, libraries and projects
 * [Arduino-RFID](https://github.com/mattwilliamson/Arduino-RFID) - Arduino RFID reader with computer serial client
 * [arcore](https://github.com/rkistner/arcore) - MIDI-USB Support for Arduino
 * [arduino-base64](https://github.com/adamvr/arduino-base64) - A base64 library for the arduino platform, written in C
+* [DirectIO](https://github.com/mmarchetti/DirectIO) - Fast, simple I/O library for Arduino 
 
 *3D Printer .*
 
@@ -122,6 +123,7 @@ A curated list of awesome Arduino hardwares, libraries and projects
 * [Arduino-IPv6Stack](https://github.com/telecombretagne/Arduino-IPv6Stack) - IPv6 stack for Arduino and Xbee based on Contiki OS network stack 
 * [MQTT-SN-Arduino](https://github.com/boriz/MQTT-SN-Arduino) - Connecting mesh network to the MQTT broker and tunneling MQTT protocol over Websocket
 * [ArduinoDuePolarSSLClient](https://github.com/tomconte/ArduinoDuePolarSSLClient) - sample Arduino Due sketch connecting to a PolarSSL server using PSK authentication
+* [arduino-mqtt](https://github.com/256dpi/arduino-mqtt) - MQTT library for Arduino based on the Eclipse Paho projects 
 
 *Command line library*
 
