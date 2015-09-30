@@ -48,9 +48,17 @@ A curated list of awesome Arduino hardwares, libraries and projects
 * [arduino-ds1302](https://github.com/msparks/arduino-ds1302) - Arduino library for the DS1302 Real Time Clock chip 
 * [xbee-arduino](https://github.com/andrewrapp/xbee-arduino) - Arduino library for communicating with XBees in API mode
 * [EnableInterrupt](https://github.com/GreyGnome/EnableInterrupt) - New Arduino interrupt library, designed for Arduino Uno/Mega 2560/Leonardo/Due 
+* [DS3232RTC](https://github.com/JChristensen/DS3232RTC) - Arduino Library for Maxim Integrated DS3232 and DS3231 Real-Time Clocks
+* [ds3231](https://github.com/rodan/ds3231) - arduino library for DS3231 RTC
+* [arduino-ds1302](https://github.com/msparks/arduino-ds1302) - Arduino library for the DS1302 Real Time Clock chip
+* [HX711](https://github.com/bogde/HX711) - An Arduino library Semiconductor HX711 ADC for Weight Scales. 
+* [MiniPirate](https://github.com/chatelao/MiniPirate) - Arduino Serial Command Tool 
+* [LedControl](https://github.com/wayoda/LedControl) - An Arduino library for MAX7219 and MAX7221 Led display drivers
 
 *Bootloader*
+
 * [HoodLoader2](https://github.com/NicoHood/HoodLoader2) - 16u2 Bootloader to reprogram 16u2 + 328/2560 with Arduino IDE 
+* [optiboot](https://github.com/Optiboot/optiboot) - Small and Fast Bootloader for Arduino and other Atmel AVR chips
 
 *Hardware undependent library*
 
@@ -91,6 +99,7 @@ A curated list of awesome Arduino hardwares, libraries and projects
 * [Mozzi](https://github.com/sensorium/Mozzi) - a sound synthesis library for Arduino
 * [StandardCplusplus](https://github.com/maniacbug/StandardCplusplus) - Standard C++ for Arduino (port of uClibc++) 
 * [ArdOSC](https://github.com/recotana/ArdOSC) - Open Sound Control(OSC) Library for Arduino 
+* [OSC](https://github.com/CNMAT/OSC) -  Arduino and Teensy implementation of OSC encoding
 * [arduino-serial](https://github.com/todbot/arduino-serial) - Example C and Java host code to talking to an arduino or other "serial" device
 * [Bounce2](https://github.com/thomasfredericks/Bounce2) - Debouncing library for Arduino or Wiring 
 * [ArduinoThread](https://github.com/ivanseidel/ArduinoThread) - A simple way to run Threads on Arduino
@@ -100,6 +109,11 @@ A curated list of awesome Arduino hardwares, libraries and projects
 * [arcore](https://github.com/rkistner/arcore) - MIDI-USB Support for Arduino
 * [arduino-base64](https://github.com/adamvr/arduino-base64) - A base64 library for the arduino platform, written in C
 * [DirectIO](https://github.com/mmarchetti/DirectIO) - Fast, simple I/O library for Arduino 
+* [arduino-EventManager](https://github.com/igormiktor/arduino-EventManager) - An event handling system for Arduino
+* [OneButton](https://github.com/mathertel/OneButton) - An Arduino library for using a single button for multiple purpose input
+* [JTAG](https://github.com/mrjimenez/JTAG) - JTAG library for Arduino
+* [Sleep_n0m1](https://github.com/n0m1/Sleep_n0m1) - A library that sets the Arduino into sleep mode for a specified length of time
+* [AESLib](https://github.com/DavyLandman/AESLib) - Arduino Library for AES Encryption
 
 *3D Printer .*
 
@@ -124,6 +138,7 @@ A curated list of awesome Arduino hardwares, libraries and projects
 * [MQTT-SN-Arduino](https://github.com/boriz/MQTT-SN-Arduino) - Connecting mesh network to the MQTT broker and tunneling MQTT protocol over Websocket
 * [ArduinoDuePolarSSLClient](https://github.com/tomconte/ArduinoDuePolarSSLClient) - sample Arduino Due sketch connecting to a PolarSSL server using PSK authentication
 * [arduino-mqtt](https://github.com/256dpi/arduino-mqtt) - MQTT library for Arduino based on the Eclipse Paho projects 
+* [aWOT](https://github.com/lasselukkari/aWOT) - Arduino web server library
 
 *Command line library*
 
@@ -182,6 +197,7 @@ A curated list of awesome Arduino hardwares, libraries and projects
 * [ArduinoPlot](https://github.com/gregpinero/ArduinoPlot) - Real time Plot Numeric Values sent from Arduino over Serial Port 
 * [ArduinoISP](https://github.com/rsbohn/ArduinoISP) - Use the Arduino to program AVR chips
 * [arduino-sms-alarm](https://github.com/mattwilliamson/arduino-sms-alarm) - An Arduino based burglar alarm that sends an SMS when motion is detected
+* [QUADCOPTER_V2](https://github.com/vjaunet/QUADCOPTER_V2) - A quadcopter project based on Raspberry Pi and Arduino 
 * [Arduino Time Lapse Panorama Controller](http://www.instructables.com/id/Arduino-Time-Lapse-Panorama-Controller/) - The controller will rotate your GoPro over a set angle for a set duration or will rotate you GoPro for a full rotation for a set duration
 * [Erbbie Desktop Garden](http://www.instructables.com/id/Erbbie-Desktop-Smart-Garden/?ALLSTEPS) - is a DIY desktop smart garden designed to give everyone a green thumb
 * [Smart Garden](http://www.instructables.com/id/Smart-Garden-1/?ALLSTEPS) - clone of Erbbie
