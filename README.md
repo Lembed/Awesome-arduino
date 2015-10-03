@@ -114,6 +114,7 @@ A curated list of awesome Arduino hardwares, libraries and projects
 * [JTAG](https://github.com/mrjimenez/JTAG) - JTAG library for Arduino
 * [Sleep_n0m1](https://github.com/n0m1/Sleep_n0m1) - A library that sets the Arduino into sleep mode for a specified length of time
 * [AESLib](https://github.com/DavyLandman/AESLib) - Arduino Library for AES Encryption
+* [MemoryFree](https://github.com/maniacbug/MemoryFree) - Arduino MemoryFree library
 
 *3D Printer .*
 
@@ -164,12 +165,15 @@ A curated list of awesome Arduino hardwares, libraries and projects
 * [noduino](https://github.com/sbstjn/noduino) - JavaScript and Node.js Framework for controlling Arduino with HTML and WebSockets
 * [ino](https://github.com/amperka/ino) - Command line toolkit for working with Arduino hardware
 * [usb-serial-for-android](https://github.com/mik3y/usb-serial-for-android) - Android USB host serial driver library for CDC, FTDI, Arduino and other devices
+* [PhysicaloidLibrary](https://github.com/ksksue/PhysicaloidLibrary) - Android Library for communicating with physical-computing boards
+* [blynk-server](https://github.com/blynkkk/blynk-server) - Platform with iOs and Android apps to control Arduino
 * [rad](https://github.com/atduskgreg/rad) - Ruby Arduino Development
 * [ardublock](https://github.com/taweili/ardublock) - a Block Programming Language for Arduino
 * [arduino-api](https://github.com/plotly/arduino-api) - Arduino library for real-time logging and streaming data to online plotly graphs
 * [dino](https://github.com/austinbv/dino) - Dino is a ruby gem that helps you bootstrap prototyping with an Arduino
 * [duino](https://github.com/ecto/duino) - Arduino framework for node.js
 * [pyFirmata](https://github.com/tino/pyFirmata) - Python interface for the Firmata  protocol
+
 
 ## Hardware
 
