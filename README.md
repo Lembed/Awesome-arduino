@@ -54,6 +54,7 @@ A curated list of awesome Arduino hardwares, libraries and projects
 * [HX711](https://github.com/bogde/HX711) - An Arduino library Semiconductor HX711 ADC for Weight Scales. 
 * [MiniPirate](https://github.com/chatelao/MiniPirate) - Arduino Serial Command Tool 
 * [LedControl](https://github.com/wayoda/LedControl) - An Arduino library for MAX7219 and MAX7221 Led display drivers
+* [arduino-BLEPeripheral](https://github.com/sandeepmistry/arduino-BLEPeripheral) - An Arduino library for creating custom BLE peripherals with Nordic Semiconductor's nRF8001 or nR51822
 
 *Bootloader*
 
@@ -165,6 +166,7 @@ A curated list of awesome Arduino hardwares, libraries and projects
 * [noduino](https://github.com/sbstjn/noduino) - JavaScript and Node.js Framework for controlling Arduino with HTML and WebSockets
 * [ino](https://github.com/amperka/ino) - Command line toolkit for working with Arduino hardware
 * [usb-serial-for-android](https://github.com/mik3y/usb-serial-for-android) - Android USB host serial driver library for CDC, FTDI, Arduino and other devices
+* [serial-port-json-server](https://github.com/johnlauer/serial-port-json-server) - A serial port JSON websocket server communicate with Arduino
 * [PhysicaloidLibrary](https://github.com/ksksue/PhysicaloidLibrary) - Android Library for communicating with physical-computing boards
 * [blynk-server](https://github.com/blynkkk/blynk-server) - Platform with iOs and Android apps to control Arduino
 * [rad](https://github.com/atduskgreg/rad) - Ruby Arduino Development
@@ -173,6 +175,7 @@ A curated list of awesome Arduino hardwares, libraries and projects
 * [dino](https://github.com/austinbv/dino) - Dino is a ruby gem that helps you bootstrap prototyping with an Arduino
 * [duino](https://github.com/ecto/duino) - Arduino framework for node.js
 * [pyFirmata](https://github.com/tino/pyFirmata) - Python interface for the Firmata  protocol
+
 
 
 ## Hardware
