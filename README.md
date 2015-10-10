@@ -34,6 +34,8 @@ A curated list of awesome Arduino hardwares, libraries and projects
 * [esp-link](https://github.com/jeelabs/esp-link) - esp8266 wifi-serial bridge, outbound TCP, and arduino/AVR/LPC/NXP programmer 
 * [Arduino-Temperature-Control-Library](https://github.com/milesburton/Arduino-Temperature-Control-Library) - Arduino Library for Maxim Temperature Integrated Circuits
 * [RF24](https://github.com/maniacbug/RF24) - Arduino driver for nRF24L01
+* [RF24](https://github.com/TMRh20/RF24) - Optimized fork of nRF24L01 for Arduino and Raspberry Pi 
+* [RF24Mesh](https://github.com/TMRh20/RF24Mesh) - Mesh Networking for RF24Network
 * [due_can](https://github.com/collin80/due_can) - Object oriented canbus library for Arduino Due compatible boards 
 * [FastLED](https://github.com/FastLED/FastLED) - easily & efficiently controlling a wide variety of LED chipsets for arduino
 * [iot-playground](https://github.com/iot-playground/Arduino) - ESP8266 EasyIoT library and sensor examples
