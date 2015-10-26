@@ -50,13 +50,14 @@ A curated list of awesome Arduino hardwares, libraries and projects
 * [arduino-ds1302](https://github.com/msparks/arduino-ds1302) - Arduino library for the DS1302 Real Time Clock chip 
 * [xbee-arduino](https://github.com/andrewrapp/xbee-arduino) - Arduino library for communicating with XBees in API mode
 * [EnableInterrupt](https://github.com/GreyGnome/EnableInterrupt) - New Arduino interrupt library, designed for Arduino Uno/Mega 2560/Leonardo/Due 
-* [DS3232RTC](https://github.com/JChristensen/DS3232RTC) - Arduino Library for Maxim Integrated DS3232 and DS3231 Real-Time Clocks
+* [DS3232RTC](https://github.com/JChristensen/DS3232RTC) - Arduino Library for Maxim Integrated DS3232 and DS3231 Real-Te Clocks
 * [ds3231](https://github.com/rodan/ds3231) - arduino library for DS3231 RTC
 * [arduino-ds1302](https://github.com/msparks/arduino-ds1302) - Arduino library for the DS1302 Real Time Clock chip
 * [HX711](https://github.com/bogde/HX711) - An Arduino library Semiconductor HX711 ADC for Weight Scales. 
 * [MiniPirate](https://github.com/chatelao/MiniPirate) - Arduino Serial Command Tool 
 * [LedControl](https://github.com/wayoda/LedControl) - An Arduino library for MAX7219 and MAX7221 Led display drivers
 * [arduino-BLEPeripheral](https://github.com/sandeepmistry/arduino-BLEPeripheral) - An Arduino library for creating custom BLE peripherals with Nordic Semiconductor's nRF8001 or nR51822
+* [BTLE](https://github.com/floe/BTLE) - library for basic Bluetooth Low Energy with the nRF24L01+ 
 
 *Bootloader*
 
@@ -77,6 +78,7 @@ A curated list of awesome Arduino hardwares, libraries and projects
 * [Arduino-PID-Library](https://github.com/br3ttb/Arduino-PID-Library) -  a pid library for arduino writed by c++
 * [firmata](https://github.com/firmata/arduino) - firmata firmware for arduino
 * [uSpeech](https://github.com/arjo129/uSpeech) - Speech recognition toolkit for the arduino
+* [Talkie](https://github.com/going-digital/Talkie) - Speech library for Arduino
 * [Low-Power](https://github.com/rocketscream/Low-Power) - Low Power Library for Arduino
 * [ArduinoOBD](https://github.com/stanleyhuangyc/ArduinoOBD) - OBD-II library and sketches for Arduino
 * [hiduino](https://github.com/ddiakopoulos/hiduino) - Native USB-MIDI on the Arduino
@@ -177,7 +179,7 @@ A curated list of awesome Arduino hardwares, libraries and projects
 * [dino](https://github.com/austinbv/dino) - Dino is a ruby gem that helps you bootstrap prototyping with an Arduino
 * [duino](https://github.com/ecto/duino) - Arduino framework for node.js
 * [pyFirmata](https://github.com/tino/pyFirmata) - Python interface for the Firmata  protocol
-
+* [JArduino](https://github.com/SINTEF-9012/JArduino) - Program your Arduino in Java
 
 
 ## Hardware
