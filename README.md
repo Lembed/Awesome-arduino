@@ -58,6 +58,8 @@ A curated list of awesome Arduino hardwares, libraries and projects
 * [LedControl](https://github.com/wayoda/LedControl) - An Arduino library for MAX7219 and MAX7221 Led display drivers
 * [arduino-BLEPeripheral](https://github.com/sandeepmistry/arduino-BLEPeripheral) - An Arduino library for creating custom BLE peripherals with Nordic Semiconductor's nRF8001 or nR51822
 * [BTLE](https://github.com/floe/BTLE) - library for basic Bluetooth Low Energy with the nRF24L01+ 
+* [BH1750](https://github.com/claws/BH1750) - An Arduino library for the digital light sensor BH1750FVI
+
 
 *Bootloader*
 
