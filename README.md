@@ -122,6 +122,7 @@ A curated list of awesome Arduino hardwares, libraries and projects
 * [Sleep_n0m1](https://github.com/n0m1/Sleep_n0m1) - A library that sets the Arduino into sleep mode for a specified length of time
 * [AESLib](https://github.com/DavyLandman/AESLib) - Arduino Library for AES Encryption
 * [MemoryFree](https://github.com/maniacbug/MemoryFree) - Arduino MemoryFree library
+* [souliss](https://github.com/souliss/souliss) - Arduino based Distributed Networking Framework for Smart Homes and IoT 
 
 *3D Printer .*
 
