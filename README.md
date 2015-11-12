@@ -59,7 +59,9 @@ A curated list of awesome Arduino hardwares, libraries and projects
 * [arduino-BLEPeripheral](https://github.com/sandeepmistry/arduino-BLEPeripheral) - An Arduino library for creating custom BLE peripherals with Nordic Semiconductor's nRF8001 or nR51822
 * [BTLE](https://github.com/floe/BTLE) - library for basic Bluetooth Low Energy with the nRF24L01+ 
 * [BH1750](https://github.com/claws/BH1750) - An Arduino library for the digital light sensor BH1750FVI
-
+* [Arduino-GP2Y0A21YK-library](https://github.com/jeroendoggen/Arduino-GP2Y0A21YK-library) - Arduino library for the Sharp GP2Y0A21YK IR Distance sensor 
+* [Arduino-distance-sensor-library](https://github.com/jeroendoggen/Arduino-distance-sensor-library) - Arduino library for distance sensors 
+* [arduino-BLEPeripheral](https://github.com/sandeepmistry/arduino-BLEPeripheral) - library for creating custom BLE peripherals with Nordic Semiconductor's nRF8001 or nR51822
 
 *Bootloader*
 
@@ -123,6 +125,9 @@ A curated list of awesome Arduino hardwares, libraries and projects
 * [AESLib](https://github.com/DavyLandman/AESLib) - Arduino Library for AES Encryption
 * [MemoryFree](https://github.com/maniacbug/MemoryFree) - Arduino MemoryFree library
 * [souliss](https://github.com/souliss/souliss) - Arduino based Distributed Networking Framework for Smart Homes and IoT 
+* [Arduino-signal-filtering-library](https://github.com/jeroendoggen/Arduino-signal-filtering-library) - Arduino library for signal filtering
+* [LED-Matrix](https://github.com/marcmerlin/LED-Matrix) - Single/bi/tri-color LED Matrix PWM driver for arduino
+
 
 *3D Printer .*
 
