@@ -62,6 +62,8 @@ A curated list of awesome Arduino hardwares, libraries and projects
 * [Arduino-GP2Y0A21YK-library](https://github.com/jeroendoggen/Arduino-GP2Y0A21YK-library) - Arduino library for the Sharp GP2Y0A21YK IR Distance sensor 
 * [Arduino-distance-sensor-library](https://github.com/jeroendoggen/Arduino-distance-sensor-library) - Arduino library for distance sensors 
 * [arduino-BLEPeripheral](https://github.com/sandeepmistry/arduino-BLEPeripheral) - library for creating custom BLE peripherals with Nordic Semiconductor's nRF8001 or nR51822
+* [Arduino-Temperature-Control-Library](https://github.com/milesburton/Arduino-Temperature-Control-Library) - Arduino Library for Maxim Temperature Integrated Circuits
+
 
 *Bootloader*
 
@@ -127,7 +129,7 @@ A curated list of awesome Arduino hardwares, libraries and projects
 * [souliss](https://github.com/souliss/souliss) - Arduino based Distributed Networking Framework for Smart Homes and IoT 
 * [Arduino-signal-filtering-library](https://github.com/jeroendoggen/Arduino-signal-filtering-library) - Arduino library for signal filtering
 * [LED-Matrix](https://github.com/marcmerlin/LED-Matrix) - Single/bi/tri-color LED Matrix PWM driver for arduino
-
+* [OneWire](https://github.com/PaulStoffregen/OneWire) - Library for Dallas/Maxim 1-Wire Chips
 
 *3D Printer .*
 
