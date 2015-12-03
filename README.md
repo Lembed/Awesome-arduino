@@ -155,6 +155,8 @@ A curated list of awesome Arduino hardwares, libraries and projects
 * [ArduinoDuePolarSSLClient](https://github.com/tomconte/ArduinoDuePolarSSLClient) - sample Arduino Due sketch connecting to a PolarSSL server using PSK authentication
 * [arduino-mqtt](https://github.com/256dpi/arduino-mqtt) - MQTT library for Arduino based on the Eclipse Paho projects 
 * [aWOT](https://github.com/lasselukkari/aWOT) - Arduino web server library
+* [arduinoWebSockets](https://github.com/Links2004/arduinoWebSockets) - WebSocket Server and Client for Arduino
+
 
 *Command line library*
 
