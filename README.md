@@ -17,6 +17,12 @@ A curated list of awesome Arduino hardwares, libraries and projects
 * [Stino](https://github.com/Robot-Will/Stino) - A Sublime Text Plugin for Arduino
 * [attiny](https://github.com/damellis/attiny) - ATtiny microcontroller support for the Arduino IDE
 * [arduinounit](https://github.com/mmurdoch/arduinounit) -  a unit testing framework for Arduino libraries 
+* [Arduino-Makefile](https://github.com/sudar/Arduino-Makefile) - Makefile for Arduino sketches
+* [arduino_sketches](https://github.com/nickgammon/arduino_sketches) - Publicly-released sketches for the Arduino microprocessor 
+* [arduino-builder](https://github.com/arduino/arduino-builder) - A command line tool for compiling Arduino sketches 
+* [arduinounit](https://github.com/mmurdoch/arduinounit) - a unit testing framework for Arduino libraries 
+* [arduino-eclipse-plugin](https://github.com/jantje/arduino-eclipse-plugin) - A plugin to make programming the arduino in eclipse easy
+
 
 ## Librarys
 
@@ -63,7 +69,7 @@ A curated list of awesome Arduino hardwares, libraries and projects
 * [Arduino-distance-sensor-library](https://github.com/jeroendoggen/Arduino-distance-sensor-library) - Arduino library for distance sensors 
 * [arduino-BLEPeripheral](https://github.com/sandeepmistry/arduino-BLEPeripheral) - library for creating custom BLE peripherals with Nordic Semiconductor's nRF8001 or nR51822
 * [Arduino-Temperature-Control-Library](https://github.com/milesburton/Arduino-Temperature-Control-Library) - Arduino Library for Maxim Temperature Integrated Circuits
-
+* [RGB-matrix-Panel](https://github.com/adafruit/RGB-matrix-Panel) - Arduino library and example code for the 16x32 RGB matrix panels
 
 *Bootloader*
 
@@ -130,6 +136,9 @@ A curated list of awesome Arduino hardwares, libraries and projects
 * [Arduino-signal-filtering-library](https://github.com/jeroendoggen/Arduino-signal-filtering-library) - Arduino library for signal filtering
 * [LED-Matrix](https://github.com/marcmerlin/LED-Matrix) - Single/bi/tri-color LED Matrix PWM driver for arduino
 * [OneWire](https://github.com/PaulStoffregen/OneWire) - Library for Dallas/Maxim 1-Wire Chips
+* [TinyEKF](https://github.com/simondlevy/TinyEKF) - Lightweight C/C++ Extended Kalman Filter with Arduino example 
+* [arduino-base64](https://github.com/adamvr/arduino-base64) - A base64 library for the arduino platform, written in C 
+* [arduino_midi_library](https://github.com/FortySevenEffects/arduino_midi_library) - MIDI for Arduino 
 
 *3D Printer .*
 
@@ -156,7 +165,7 @@ A curated list of awesome Arduino hardwares, libraries and projects
 * [arduino-mqtt](https://github.com/256dpi/arduino-mqtt) - MQTT library for Arduino based on the Eclipse Paho projects 
 * [aWOT](https://github.com/lasselukkari/aWOT) - Arduino web server library
 * [arduinoWebSockets](https://github.com/Links2004/arduinoWebSockets) - WebSocket Server and Client for Arduino
-
+* [HttpClient](https://github.com/amcewen/HttpClient) - Arduino HTTP library 
 
 *Command line library*
 
@@ -173,7 +182,7 @@ A curated list of awesome Arduino hardwares, libraries and projects
 * [u8glib](https://github.com/olikraus/u8glib) - Arduino Monochrom Graphics Library for LCDs and OLEDs
 * [ucglib](https://github.com/olikraus/ucglib) - Arduino True Color Library for TFTs and OLEDs
 
-*Host side Control library*
+*Binding and API library*
 
 * [johnny-five](https://github.com/rwaldron/johnny-five) - JavaScript Robotics and IoT programming framework, Based on Arduino Firmata Protocol
 * [Python-Arduino-Command-API](https://github.com/thearn/Python-Arduino-Command-API) - A Python library for communicating with Arduino microcontroller boards
@@ -192,6 +201,8 @@ A curated list of awesome Arduino hardwares, libraries and projects
 * [duino](https://github.com/ecto/duino) - Arduino framework for node.js
 * [pyFirmata](https://github.com/tino/pyFirmata) - Python interface for the Firmata  protocol
 * [JArduino](https://github.com/SINTEF-9012/JArduino) - Program your Arduino in Java
+* [Python-Arduino-Command-API](https://github.com/thearn/Python-Arduino-Command-API) - A Python library for communicating with Arduino microcontroller boards 
+* [hwio](https://github.com/mrmorphic/hwio) - Go library for hardware I/O control, in the programming style of Arduino 
 
 
 ## Hardware
