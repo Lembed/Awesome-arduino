@@ -204,6 +204,10 @@ A curated list of awesome Arduino hardwares, libraries and projects
 * [Python-Arduino-Command-API](https://github.com/thearn/Python-Arduino-Command-API) - A Python library for communicating with Arduino microcontroller boards 
 * [hwio](https://github.com/mrmorphic/hwio) - Go library for hardware I/O control, in the programming style of Arduino 
 
+*RPC*
+
+* [ArduRPC](https://github.com/DinoTools/ArduRPC) - RPC library for Arduino and other microcontroller based boards
+* [arduino-json-rpc](https://github.com/cloud-rocket/arduino-json-rpc) - Simple JSON-RPC server implementation for Arduino
 
 ## Hardware
 
