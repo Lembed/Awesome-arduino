@@ -165,7 +165,8 @@ A curated list of awesome Arduino hardwares, libraries and projects
 * [arduino-mqtt](https://github.com/256dpi/arduino-mqtt) - MQTT library for Arduino based on the Eclipse Paho projects 
 * [aWOT](https://github.com/lasselukkari/aWOT) - Arduino web server library
 * [arduinoWebSockets](https://github.com/Links2004/arduinoWebSockets) - WebSocket Server and Client for Arduino
-* [HttpClient](https://github.com/amcewen/HttpClient) - Arduino HTTP library 
+* [HttpClient](https://github.com/amcewen/HttpClient) - Arduino HTTP library
+* [microcoap](https://github.com/1248/microcoap) - A small CoAP implementation for microcontrollers
 
 *Command line library*
 
@@ -214,6 +215,8 @@ A curated list of awesome Arduino hardwares, libraries and projects
 *Hardware board for arduino diy.*
 
 * [Teensy](https://www.pjrc.com/teensy/) - The Teensy is a complete USB-based microcontroller development system
+* [blackmagic](https://github.com/blacksphere/blackmagic) - In application debugger for ARM Cortex microcontrollers
+* [stm32plus](https://github.com/andysworkshop/stm32plus) - C++ library for the STM32 F0, F100, F103, F107 and F4 
 
 
 ## Tutorials
