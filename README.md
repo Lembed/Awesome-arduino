@@ -140,6 +140,7 @@ A curated list of awesome Arduino hardwares, libraries and projects
 * [TinyEKF](https://github.com/simondlevy/TinyEKF) - Lightweight C/C++ Extended Kalman Filter with Arduino example 
 * [arduino-base64](https://github.com/adamvr/arduino-base64) - A base64 library for the arduino platform, written in C 
 * [arduino_midi_library](https://github.com/FortySevenEffects/arduino_midi_library) - MIDI for Arduino 
+* [FreeRTOS-Arduino](https://github.com/greiman/FreeRTOS-Arduino) - FreeRTOS 8.2.3 Arduino Libraries
 
 *3D Printer .*
 
@@ -166,13 +167,10 @@ A curated list of awesome Arduino hardwares, libraries and projects
 * [arduino-mqtt](https://github.com/256dpi/arduino-mqtt) - MQTT library for Arduino based on the Eclipse Paho projects 
 * [aWOT](https://github.com/lasselukkari/aWOT) - Arduino web server library
 * [arduinoWebSockets](https://github.com/Links2004/arduinoWebSockets) - WebSocket Server and Client for Arduino
-<<<<<<< HEAD
 * [HttpClient](https://github.com/amcewen/HttpClient) - Arduino HTTP library 
 * [aws-iot-device-sdk-arduino-yun](https://github.com/aws/aws-iot-device-sdk-arduino-yun) - SDK for connecting to AWS IoT from an Arduino Yún. 
-=======
 * [HttpClient](https://github.com/amcewen/HttpClient) - Arduino HTTP library
 * [microcoap](https://github.com/1248/microcoap) - A small CoAP implementation for microcontrollers
->>>>>>> origin/HEAD
 
 *Command line library*
 
