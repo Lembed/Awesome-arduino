@@ -70,6 +70,7 @@ A curated list of awesome Arduino hardwares, libraries and projects
 * [arduino-BLEPeripheral](https://github.com/sandeepmistry/arduino-BLEPeripheral) - library for creating custom BLE peripherals with Nordic Semiconductor's nRF8001 or nR51822
 * [Arduino-Temperature-Control-Library](https://github.com/milesburton/Arduino-Temperature-Control-Library) - Arduino Library for Maxim Temperature Integrated Circuits
 * [RGB-matrix-Panel](https://github.com/adafruit/RGB-matrix-Panel) - Arduino library and example code for the 16x32 RGB matrix panels
+* [Time](https://github.com/PaulStoffregen/Time) - Time library for Arduino
 
 *Bootloader*
 
@@ -165,8 +166,13 @@ A curated list of awesome Arduino hardwares, libraries and projects
 * [arduino-mqtt](https://github.com/256dpi/arduino-mqtt) - MQTT library for Arduino based on the Eclipse Paho projects 
 * [aWOT](https://github.com/lasselukkari/aWOT) - Arduino web server library
 * [arduinoWebSockets](https://github.com/Links2004/arduinoWebSockets) - WebSocket Server and Client for Arduino
+<<<<<<< HEAD
+* [HttpClient](https://github.com/amcewen/HttpClient) - Arduino HTTP library 
+* [aws-iot-device-sdk-arduino-yun](https://github.com/aws/aws-iot-device-sdk-arduino-yun) - SDK for connecting to AWS IoT from an Arduino Yún. 
+=======
 * [HttpClient](https://github.com/amcewen/HttpClient) - Arduino HTTP library
 * [microcoap](https://github.com/1248/microcoap) - A small CoAP implementation for microcontrollers
+>>>>>>> origin/HEAD
 
 *Command line library*
 
