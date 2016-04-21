@@ -248,6 +248,23 @@ A curated list of awesome Arduino hardwares, libraries and projects
 * [Smart Garden](http://www.instructables.com/id/Smart-Garden-1/?ALLSTEPS) - clone of Erbbie
 * [Temperature controlled craft beer coolbox](http://www.instructables.com/id/temperature-controlled-craft-beer-coolbox/) - a coolbox in which you can control the temperature in three separate compartments 
 
+## usage
+
+```bash
+usage()
+{
+    echo ""
+    echo " usage:"
+    echo ""
+    echo "./update.sh <cmd>"
+    echo "    where <cmd> is one of:"
+    echo "      --install-or-update     (does full installation or update.)"
+    echo "      --remove 		        (removes all installed)"
+    echo ""
+    echo "example:"
+    echo '    $ ./update.sh --install-or-update'
+}
+```
 
 ## Contributing
 * [Contributing](https://github.com/lembed/awesome-arduino/blob/master/CONTRIBUTING.md)
