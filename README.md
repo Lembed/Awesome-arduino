@@ -1,27 +1,12 @@
 # awesome-arduino
 A curated list of awesome Arduino hardwares, libraries and projects
 - [Awesome Arduino](#awesome-Arduino)
-    - [IDE](#ide)
-    - [Librarys](#librarys)
-    - [Hardware](#hardware)
+ 	- [Librarys](#librarys)
+    - [HardwareBoard](#HardwareBoard)
+    - [IDE](#ide)   
     - [Tutorials](#tutorials)
     - [Projects](#projects)
 - [Contributing](#contributing)
-
-## IDE
-
-*Arduino developments*
-
-* [arduino](https://github.com/arduino/Arduino) - office arduino ide
-* [ESP8266 IDE](https://github.com/esp8266/Arduino) - Arduino IDE for ESP8266
-* [Stino](https://github.com/Robot-Will/Stino) - A Sublime Text Plugin for Arduino
-* [attiny](https://github.com/damellis/attiny) - ATtiny microcontroller support for the Arduino IDE
-* [arduinounit](https://github.com/mmurdoch/arduinounit) -  a unit testing framework for Arduino libraries 
-* [Arduino-Makefile](https://github.com/sudar/Arduino-Makefile) - Makefile for Arduino sketches
-* [arduino_sketches](https://github.com/nickgammon/arduino_sketches) - Publicly-released sketches for the Arduino microprocessor 
-* [arduino-builder](https://github.com/arduino/arduino-builder) - A command line tool for compiling Arduino sketches 
-* [arduinounit](https://github.com/mmurdoch/arduinounit) - a unit testing framework for Arduino libraries 
-* [arduino-eclipse-plugin](https://github.com/jantje/arduino-eclipse-plugin) - A plugin to make programming the arduino in eclipse easy
 
 
 ## Librarys
@@ -214,13 +199,28 @@ A curated list of awesome Arduino hardwares, libraries and projects
 * [ArduRPC](https://github.com/DinoTools/ArduRPC) - RPC library for Arduino and other microcontroller based boards
 * [arduino-json-rpc](https://github.com/cloud-rocket/arduino-json-rpc) - Simple JSON-RPC server implementation for Arduino
 
-## Hardware
+## HardwareBoard
 
 *Hardware board for arduino diy.*
 
 * [Teensy](https://www.pjrc.com/teensy/) - The Teensy is a complete USB-based microcontroller development system
 * [blackmagic](https://github.com/blacksphere/blackmagic) - In application debugger for ARM Cortex microcontrollers
 * [stm32plus](https://github.com/andysworkshop/stm32plus) - C++ library for the STM32 F0, F100, F103, F107 and F4 
+
+## IDE
+
+*Arduino developments*
+
+* [arduino](https://github.com/arduino/Arduino) - office arduino ide
+* [ESP8266 IDE](https://github.com/esp8266/Arduino) - Arduino IDE for ESP8266
+* [Stino](https://github.com/Robot-Will/Stino) - A Sublime Text Plugin for Arduino
+* [attiny](https://github.com/damellis/attiny) - ATtiny microcontroller support for the Arduino IDE
+* [arduinounit](https://github.com/mmurdoch/arduinounit) -  a unit testing framework for Arduino libraries 
+* [Arduino-Makefile](https://github.com/sudar/Arduino-Makefile) - Makefile for Arduino sketches
+* [arduino_sketches](https://github.com/nickgammon/arduino_sketches) - Publicly-released sketches for the Arduino microprocessor 
+* [arduino-builder](https://github.com/arduino/arduino-builder) - A command line tool for compiling Arduino sketches 
+* [arduinounit](https://github.com/mmurdoch/arduinounit) - a unit testing framework for Arduino libraries 
+* [arduino-eclipse-plugin](https://github.com/jantje/arduino-eclipse-plugin) - A plugin to make programming the arduino in eclipse easy
 
 
 ## Tutorials
@@ -249,8 +249,11 @@ A curated list of awesome Arduino hardwares, libraries and projects
 * [Temperature controlled craft beer coolbox](http://www.instructables.com/id/temperature-controlled-craft-beer-coolbox/) - a coolbox in which you can control the temperature in three separate compartments 
 
 ## usage
+work in 'git bash' at windows with git installed or linux os
 
 ```bash
+sh update.sh
+
 usage()
 {
     echo ""

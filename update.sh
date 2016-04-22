@@ -67,7 +67,7 @@ function pure_list
 		rs=$(echo $LINE | grep "github" )
 		if [[ "$rs" != "" ]]; then
 			# the projects list can not be installed
-			rt=$(echo $LINE | grep "Projects" )
+			rt=$(echo $LINE | grep "HardwareBoard" )
 			if [[ "$rt" !=  "" ]]; then
 				continue
 			fi
