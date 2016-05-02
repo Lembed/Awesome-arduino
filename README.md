@@ -221,7 +221,7 @@ A curated list of awesome Arduino hardwares, libraries and projects
 * [arduino-builder](https://github.com/arduino/arduino-builder) - A command line tool for compiling Arduino sketches 
 * [arduinounit](https://github.com/mmurdoch/arduinounit) - a unit testing framework for Arduino libraries 
 * [arduino-eclipse-plugin](https://github.com/jantje/arduino-eclipse-plugin) - A plugin to make programming the arduino in eclipse easy
-
+* [dueboot](https://github.com/jensnockert/dueboot) - Rust on the Arduino Due
 
 ## Tutorials
 
