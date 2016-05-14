@@ -16,7 +16,8 @@ A curated list of awesome Arduino hardwares, libraries and projects
 * [si4432](https://github.com/theGanymedes/si4432) - Si4432 Library for Arduino 
 * [RFM69](https://github.com/LowPowerLab/RFM69) - RFM69 library for RFM69W and RFM69HW (semtech SX1231, SX1231H) 
 * [RFM12B](https://github.com/LowPowerLab/RFM12B) - Arduino RFM12B library
-* [SPIFlash](https://github.com/LowPowerLab/SPIFlash) - Arduino library for read/write access to SPI flash memory chips 
+* [SPIFlash](https://github.com/LowPowerLab/SPIFlash) - Arduino library for read/write access to SPI flash memory chips
+* [Winbond_flash](https://github.com/Marzogh/SPIFlash) - SPI library for Winbond Flash Memory modules
 * [ov7670-no-ram-arduino-uno](https://github.com/ComputerNerd/ov7670-no-ram-arduino-uno) -  arduino library for ov7670
 * [DHT-sensor-library](https://github.com/adafruit/DHT-sensor-library) - Arduino library for DHT11DHT22, etc Temp & Humidity Sensors
 * [Arduino-DHT22](https://github.com/nethoncho/Arduino-DHT22) - Arduino library for the DHT22 humidity and temperature sensor
