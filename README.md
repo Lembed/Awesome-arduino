@@ -71,6 +71,7 @@ A curated list of awesome Arduino hardwares, libraries and projects
 * [keysweeper](https://github.com/samyk/keysweeper) - KeySweeper is a stealthy Arduino-based device, camouflaged as a functioning USB ....
 * [aJson](https://github.com/interactive-matter/aJson) - an Arduino library to enable JSON processing with Arduino
 * [ArduinoJson](https://github.com/bblanchon/ArduinoJson) - An efficient JSON library for embedded systems
+* [json-streaming-parser](https://github.com/squix78/json-streaming-parser) - library for parsing potentially huge json streams on devices with scarce memory
 * [USB_Host_Shield_2.0](https://github.com/felis/USB_Host_Shield_2.0) - Revision 2.0 of USB Host Library for Arduino
 * [pubsubclient](https://github.com/knolleary/pubsubclient) - A client library for the Arduino Ethernet Shield that provides support for MQTT
 * [WiringPi](https://github.com/WiringPi/WiringPi) - Gordon's Arduino wiring-like WiringPi Library for the Raspberry Pi
