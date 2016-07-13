@@ -130,6 +130,7 @@ A curated list of awesome Arduino hardwares, libraries and projects
 * [FreeRTOS-Arduino](https://github.com/greiman/FreeRTOS-Arduino) - FreeRTOS 8.2.3 Arduino Libraries
 * [Arduino_FreeRTOS_Library](https://github.com/feilipu/Arduino_FreeRTOS_Library) - A FreeRTOS Library for all Arduino AVR Devices
 * [Automaton](https://github.com/tinkerspy/Automaton) - Reactive State Machine Framework for Arduino
+* [LinkedList](https://github.com/ivanseidel/LinkedList) - A fully implemented LinkedList made to work with Arduino projects
 
 *3D Printer .*
 
