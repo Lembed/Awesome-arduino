@@ -57,6 +57,7 @@ A curated list of awesome Arduino hardwares, libraries and projects
 * [Arduino-Temperature-Control-Library](https://github.com/milesburton/Arduino-Temperature-Control-Library) - Arduino Library for Maxim Temperature Integrated Circuits
 * [RGB-matrix-Panel](https://github.com/adafruit/RGB-matrix-Panel) - Arduino library and example code for the 16x32 RGB matrix panels
 * [Time](https://github.com/PaulStoffregen/Time) - Time library for Arduino
+* [Arduino-JSON](https://github.com/bblanchon/ArduinoJson) - An elegant and efficient JSON library for embedded systems
 
 *Bootloader*
 
