@@ -122,7 +122,6 @@ A curated list of awesome Arduino hardwares, libraries and projects
 * [AESLib](https://github.com/DavyLandman/AESLib) - Arduino Library for AES Encryption
 * [MemoryFree](https://github.com/maniacbug/MemoryFree) - Arduino MemoryFree library
 * [souliss](https://github.com/souliss/souliss) - Arduino based Distributed Networking Framework for Smart Homes and IoT 
-* [Arduino-signal-filtering-library](https://github.com/jeroendoggen/Arduino-signal-filtering-library) - Arduino library for signal filtering
 * [LED-Matrix](https://github.com/marcmerlin/LED-Matrix) - Single/bi/tri-color LED Matrix PWM driver for arduino
 * [OneWire](https://github.com/PaulStoffregen/OneWire) - Library for Dallas/Maxim 1-Wire Chips
 * [TinyEKF](https://github.com/simondlevy/TinyEKF) - Lightweight C/C++ Extended Kalman Filter with Arduino example 
@@ -204,6 +203,11 @@ A curated list of awesome Arduino hardwares, libraries and projects
 
 * [ArduRPC](https://github.com/DinoTools/ArduRPC) - RPC library for Arduino and other microcontroller based boards
 * [arduino-json-rpc](https://github.com/cloud-rocket/arduino-json-rpc) - Simple JSON-RPC server implementation for Arduino
+
+*Math library*
+
+* [Arduino-signal-filtering-library](https://github.com/jeroendoggen/Arduino-signal-filtering-library) - Arduino library for signal filtering
+* [Gaussian](https://github.com/ivanseidel/Gaussian) -  Gaussian filter for arduino
 
 ## HardwareBoard
 
