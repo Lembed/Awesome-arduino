@@ -44,6 +44,7 @@ A curated list of awesome Arduino hardwares, libraries and projects
 * [EnableInterrupt](https://github.com/GreyGnome/EnableInterrupt) - New Arduino interrupt library, designed for Arduino Uno/Mega 2560/Leonardo/Due 
 * [DS3232RTC](https://github.com/JChristensen/DS3232RTC) - Arduino Library for Maxim Integrated DS3232 and DS3231 Real-Te Clocks
 * [ds3231](https://github.com/rodan/ds3231) - arduino library for DS3231 RTC
+* [RTClib](https://github.com/adafruit/RTClib) -  RTC library
 * [arduino-ds1302](https://github.com/msparks/arduino-ds1302) - Arduino library for the DS1302 Real Time Clock chip
 * [HX711](https://github.com/bogde/HX711) - An Arduino library Semiconductor HX711 ADC for Weight Scales. 
 * [MiniPirate](https://github.com/chatelao/MiniPirate) - Arduino Serial Command Tool 
