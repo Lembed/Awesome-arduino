@@ -60,6 +60,7 @@ A curated list of awesome Arduino hardwares, libraries and projects
 * [Time](https://github.com/PaulStoffregen/Time) - Time library for Arduino
 * [Arduino-JSON](https://github.com/bblanchon/ArduinoJson) - An elegant and efficient JSON library for embedded systems
 * [modbusino](https://github.com/stephane/modbusino) - Small Modbus slave, RTU (serial) for Arduino
+* [simplemodbusng](https://github.com/angeloc/simplemodbusng) - Modbus RTU Slave/Master for the Arduino
 
 *Bootloader*
 
