@@ -59,6 +59,7 @@ A curated list of awesome Arduino hardwares, libraries and projects
 * [RGB-matrix-Panel](https://github.com/adafruit/RGB-matrix-Panel) - Arduino library and example code for the 16x32 RGB matrix panels
 * [Time](https://github.com/PaulStoffregen/Time) - Time library for Arduino
 * [Arduino-JSON](https://github.com/bblanchon/ArduinoJson) - An elegant and efficient JSON library for embedded systems
+* [modbusino](https://github.com/stephane/modbusino) - Small Modbus slave, RTU (serial) for Arduino
 
 *Bootloader*
 
