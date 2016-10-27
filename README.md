@@ -134,6 +134,8 @@ A curated list of awesome Arduino hardwares, libraries and projects
 * [Arduino_FreeRTOS_Library](https://github.com/feilipu/Arduino_FreeRTOS_Library) - A FreeRTOS Library for all Arduino AVR Devices
 * [Automaton](https://github.com/tinkerspy/Automaton) - Reactive State Machine Framework for Arduino
 * [LinkedList](https://github.com/ivanseidel/LinkedList) - A fully implemented LinkedList made to work with Arduino projects
+* [VirtualUsbKeyboard](https://github.com/practicalarduino/VirtualUsbKeyboard) - Virtual an Arduino as a HID device
+* [virtual-shields-arduino](https://github.com/ms-iot/virtual-shields-arduino) - Windows Virtual Shields for Arduino library
 
 *3D Printer .*
 
