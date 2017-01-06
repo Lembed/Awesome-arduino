@@ -237,6 +237,7 @@ A curated list of awesome Arduino hardwares, libraries and projects
 * [arduinounit](https://github.com/mmurdoch/arduinounit) - a unit testing framework for Arduino libraries 
 * [arduino-eclipse-plugin](https://github.com/jantje/arduino-eclipse-plugin) - A plugin to make programming the arduino in eclipse easy
 * [dueboot](https://github.com/jensnockert/dueboot) - Rust on the Arduino Due
+* [Arduino-Designer](https://github.com/mbats/arduino) - Graphic Arduino designer base on eclipse
 
 ## Tutorials
 
