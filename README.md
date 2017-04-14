@@ -127,7 +127,6 @@ A curated list of awesome Arduino hardwares, libraries and projects
 * [LED-Matrix](https://github.com/marcmerlin/LED-Matrix) - Single/bi/tri-color LED Matrix PWM driver for arduino
 * [OneWire](https://github.com/PaulStoffregen/OneWire) - Library for Dallas/Maxim 1-Wire Chips
 * [TinyEKF](https://github.com/simondlevy/TinyEKF) - Lightweight C/C++ Extended Kalman Filter with Arduino example 
-* [arduino-base64](https://github.com/adamvr/arduino-base64) - A base64 library for the arduino platform, written in C 
 * [arduino_midi_library](https://github.com/FortySevenEffects/arduino_midi_library) - MIDI for Arduino 
 * [FreeRTOS-Arduino](https://github.com/greiman/FreeRTOS-Arduino) - FreeRTOS 8.2.3 Arduino Libraries
 * [Arduino_FreeRTOS_Library](https://github.com/feilipu/Arduino_FreeRTOS_Library) - A FreeRTOS Library for all Arduino AVR Devices
