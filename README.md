@@ -13,7 +13,6 @@ A curated list of awesome Arduino hardwares, libraries and projects
 
 *Hardware dependent library*
 * [rtclib](https://github.com/jcw/rtclib) - a lightweight date and time library for JeeNodes and Arduino's
-* [si4432](https://github.com/theGanymedes/si4432) - Si4432 Library for Arduino 
 * [RFM69](https://github.com/LowPowerLab/RFM69) - RFM69 library for RFM69W and RFM69HW (semtech SX1231, SX1231H) 
 * [RFM12B](https://github.com/LowPowerLab/RFM12B) - Arduino RFM12B library
 * [SPIFlash](https://github.com/LowPowerLab/SPIFlash) - Arduino library for read/write access to SPI flash memory chips
