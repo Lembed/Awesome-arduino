@@ -1,7 +1,7 @@
 # awesome-arduino
-A curated list of awesome Arduino hardwares, libraries and projects
+A curated list of awesome Arduino hardware, libraries and projects
 - [Awesome Arduino](#awesome-Arduino)
- 	- [Librarys](#librarys)
+ 	- [Libraries](#libraries)
     - [HardwareBoard](#HardwareBoard)
     - [IDE](#ide)   
     - [Tutorials](#tutorials)
@@ -9,30 +9,30 @@ A curated list of awesome Arduino hardwares, libraries and projects
 - [Contributing](#contributing)
 
 
-## Librarys
+## Libraries
 
 *Hardware dependent library*
-* [rtclib](https://github.com/jcw/rtclib) - a lightweight date and time library for JeeNodes and Arduino's
-* [RFM69](https://github.com/LowPowerLab/RFM69) - RFM69 library for RFM69W and RFM69HW (semtech SX1231, SX1231H) 
+* [rtclib](https://github.com/jcw/rtclib) - A lightweight date and time library for JeeNodes and Arduinos
+* [RFM69](https://github.com/LowPowerLab/RFM69) - RFM69 library for RFM69W and RFM69HW (Semtech SX1231, SX1231H) 
 * [RFM12B](https://github.com/LowPowerLab/RFM12B) - Arduino RFM12B library
 * [SPIFlash](https://github.com/LowPowerLab/SPIFlash) - Arduino library for read/write access to SPI flash memory chips
 * [Winbond_flash](https://github.com/Marzogh/SPIFlash) - SPI library for Winbond Flash Memory modules
-* [ov7670-no-ram-arduino-uno](https://github.com/ComputerNerd/ov7670-no-ram-arduino-uno) -  arduino library for ov7670
+* [ov7670-no-ram-arduino-uno](https://github.com/ComputerNerd/ov7670-no-ram-arduino-uno) -  Arduino library for OV7670
 * [DHT-sensor-library](https://github.com/adafruit/DHT-sensor-library) - Arduino library for DHT11DHT22, etc Temp & Humidity Sensors
 * [Arduino-DHT22](https://github.com/nethoncho/Arduino-DHT22) - Arduino library for the DHT22 humidity and temperature sensor
 * [rfid](https://github.com/miguelbalboa/rfid) - Arduino RFID Library for MFRC522
-* [433Utils](https://github.com/ninjablocks/433Utils) - a collection of code and documentation to assist you usage of RF 433MHz modules 
-* [esp-link](https://github.com/jeelabs/esp-link) - esp8266 wifi-serial bridge, outbound TCP, and arduino/AVR/LPC/NXP programmer 
+* [433Utils](https://github.com/ninjablocks/433Utils) - A collection of code and documentation to assist your usage of RF 433MHz modules 
+* [esp-link](https://github.com/jeelabs/esp-link) - ESP8266 wifi-serial bridge, outbound TCP, and Arduino/AVR/LPC/NXP programmer 
 * [Arduino-Temperature-Control-Library](https://github.com/milesburton/Arduino-Temperature-Control-Library) - Arduino Library for Maxim Temperature Integrated Circuits
 * [RF24](https://github.com/maniacbug/RF24) - Arduino driver for nRF24L01
 * [RF24](https://github.com/TMRh20/RF24) - Optimized fork of nRF24L01 for Arduino and Raspberry Pi 
 * [RF24Mesh](https://github.com/TMRh20/RF24Mesh) - Mesh Networking for RF24Network
-* [due_can](https://github.com/collin80/due_can) - Object oriented canbus library for Arduino Due compatible boards 
-* [FastLED](https://github.com/FastLED/FastLED) - easily & efficiently controlling a wide variety of LED chipsets for arduino
+* [due_can](https://github.com/collin80/due_can) - Object oriented CANbus library for Arduino Due compatible boards 
+* [FastLED](https://github.com/FastLED/FastLED) - Easily & efficiently controlling a wide variety of LED chipsets for Arduino
 * [iot-playground](https://github.com/iot-playground/Arduino) - ESP8266 EasyIoT library and sensor examples
-* [espduino](https://github.com/tuanpmt/espduino) - ESP8266 network client (mqtt, restful) for Arduino
+* [espduino](https://github.com/tuanpmt/espduino) - ESP8266 network client (MQTT, restful) for Arduino
 * [esp_mqtt](https://github.com/tuanpmt/esp_mqtt) - MQTT client library for ESP8266 Soc
-* [esp_bridge](https://github.com/tuanpmt/esp_bridge) - ESP8266 firmware SLIP Command, support mqtt, restful client
+* [esp_bridge](https://github.com/tuanpmt/esp_bridge) - ESP8266 firmware SLIP Command, support mqtt, RESTful client
 * [Ultrasonic-HC-SR04](https://github.com/JRodrigoTech/Ultrasonic-HC-SR04) - Ultrasonic HC-SR04 library for Arduino
 * [MPU-9250](https://github.com/kriswiner/MPU-9250) - Arduino sketch for MPU-9250 9DoF with AHRS sensor fusion 
 * [MPU-6050](https://github.com/kriswiner/MPU-6050) - Basic MPU-6050 Arduino sketch of sensor function
@@ -41,19 +41,19 @@ A curated list of awesome Arduino hardwares, libraries and projects
 * [arduino-ds1302](https://github.com/msparks/arduino-ds1302) - Arduino library for the DS1302 Real Time Clock chip 
 * [xbee-arduino](https://github.com/andrewrapp/xbee-arduino) - Arduino library for communicating with XBees in API mode
 * [EnableInterrupt](https://github.com/GreyGnome/EnableInterrupt) - New Arduino interrupt library, designed for Arduino Uno/Mega 2560/Leonardo/Due 
-* [DS3232RTC](https://github.com/JChristensen/DS3232RTC) - Arduino Library for Maxim Integrated DS3232 and DS3231 Real-Te Clocks
-* [ds3231](https://github.com/rodan/ds3231) - arduino library for DS3231 RTC
+* [DS3232RTC](https://github.com/JChristensen/DS3232RTC) - Arduino Library for Maxim Integrated DS3232 and DS3231 Real-Time Clocks
+* [ds3231](https://github.com/rodan/ds3231) - Arduino library for DS3231 RTC
 * [RTClib](https://github.com/adafruit/RTClib) -  RTC library
 * [arduino-ds1302](https://github.com/msparks/arduino-ds1302) - Arduino library for the DS1302 Real Time Clock chip
 * [HX711](https://github.com/bogde/HX711) - An Arduino library Semiconductor HX711 ADC for Weight Scales. 
 * [MiniPirate](https://github.com/chatelao/MiniPirate) - Arduino Serial Command Tool 
 * [LedControl](https://github.com/wayoda/LedControl) - An Arduino library for MAX7219 and MAX7221 Led display drivers
 * [arduino-BLEPeripheral](https://github.com/sandeepmistry/arduino-BLEPeripheral) - An Arduino library for creating custom BLE peripherals with Nordic Semiconductor's nRF8001 or nR51822
-* [BTLE](https://github.com/floe/BTLE) - library for basic Bluetooth Low Energy with the nRF24L01+ 
+* [BTLE](https://github.com/floe/BTLE) - Library for basic Bluetooth Low Energy with the nRF24L01+ 
 * [BH1750](https://github.com/claws/BH1750) - An Arduino library for the digital light sensor BH1750FVI
 * [Arduino-GP2Y0A21YK-library](https://github.com/jeroendoggen/Arduino-GP2Y0A21YK-library) - Arduino library for the Sharp GP2Y0A21YK IR Distance sensor 
 * [Arduino-distance-sensor-library](https://github.com/jeroendoggen/Arduino-distance-sensor-library) - Arduino library for distance sensors 
-* [arduino-BLEPeripheral](https://github.com/sandeepmistry/arduino-BLEPeripheral) - library for creating custom BLE peripherals with Nordic Semiconductor's nRF8001 or nR51822
+* [arduino-BLEPeripheral](https://github.com/sandeepmistry/arduino-BLEPeripheral) - Library for creating custom BLE peripherals with Nordic Semiconductor's nRF8001 or nR51822
 * [Arduino-Temperature-Control-Library](https://github.com/milesburton/Arduino-Temperature-Control-Library) - Arduino Library for Maxim Temperature Integrated Circuits
 * [RGB-matrix-Panel](https://github.com/adafruit/RGB-matrix-Panel) - Arduino library and example code for the 16x32 RGB matrix panels
 * [Time](https://github.com/PaulStoffregen/Time) - Time library for Arduino
@@ -66,7 +66,7 @@ A curated list of awesome Arduino hardwares, libraries and projects
 * [HoodLoader2](https://github.com/NicoHood/HoodLoader2) - 16u2 Bootloader to reprogram 16u2 + 328/2560 with Arduino IDE 
 * [optiboot](https://github.com/Optiboot/optiboot) - Small and Fast Bootloader for Arduino and other Atmel AVR chips
 
-*Hardware undependent library*
+*Hardware independent library*
 
 * [Arduino-IRremote](https://github.com/z3t0/Arduino-IRremote) - Infrared remote library for Arduino: send and receive infrared signals ....
 * [IRLib](https://github.com/cyborg5/IRLib) - An Arduino library for encoding and decoding infrared remote signals 
@@ -74,13 +74,13 @@ A curated list of awesome Arduino hardwares, libraries and projects
 * [keysweeper](https://github.com/samyk/keysweeper) - KeySweeper is a stealthy Arduino-based device, camouflaged as a functioning USB ....
 * [aJson](https://github.com/interactive-matter/aJson) - an Arduino library to enable JSON processing with Arduino
 * [ArduinoJson](https://github.com/bblanchon/ArduinoJson) - An efficient JSON library for embedded systems
-* [json-streaming-parser](https://github.com/squix78/json-streaming-parser) - library for parsing potentially huge json streams on devices with scarce memory
+* [json-streaming-parser](https://github.com/squix78/json-streaming-parser) - Library for parsing potentially huge json streams on devices with scarce memory
 * [USB_Host_Shield_2.0](https://github.com/felis/USB_Host_Shield_2.0) - Revision 2.0 of USB Host Library for Arduino
 * [pubsubclient](https://github.com/knolleary/pubsubclient) - A client library for the Arduino Ethernet Shield that provides support for MQTT
 * [WiringPi](https://github.com/WiringPi/WiringPi) - Gordon's Arduino wiring-like WiringPi Library for the Raspberry Pi
-* [Arduino-PID-Library](https://github.com/br3ttb/Arduino-PID-Library) -  a pid library for arduino writed by c++
-* [firmata](https://github.com/firmata/arduino) - firmata firmware for arduino
-* [uSpeech](https://github.com/arjo129/uSpeech) - Speech recognition toolkit for the arduino
+* [Arduino-PID-Library](https://github.com/br3ttb/Arduino-PID-Library) - A pid library for Arduino written in C++
+* [firmata](https://github.com/firmata/arduino) - Firmata firmware for Arduino
+* [uSpeech](https://github.com/arjo129/uSpeech) - Speech recognition toolkit for the Arduino
 * [Talkie](https://github.com/going-digital/Talkie) - Speech library for Arduino
 * [Low-Power](https://github.com/rocketscream/Low-Power) - Low Power Library for Arduino
 * [ArduinoOBD](https://github.com/stanleyhuangyc/ArduinoOBD) - OBD-II library and sketches for Arduino
@@ -89,7 +89,7 @@ A curated list of awesome Arduino hardwares, libraries and projects
 * [Cryptosuite](https://github.com/Cathedrow/Cryptosuite) - Cryptographic suite for Arduino (SHA, HMAC-SHA) 
 * [Timer](https://github.com/JChristensen/Timer) - A fork of Simon Monk's Arduino Timer library
 * [PJON](https://github.com/gioblu/PJON) - One wire multi master device communications bus system for Arduino 
-* [HID](https://github.com/NicoHood/HID) - enhanced HID functions for Arduino
+* [HID](https://github.com/NicoHood/HID) - Enhanced HID functions for Arduino
 * [Cosa](https://github.com/mikaelpatel/Cosa) - An Object-Oriented Platform for Arduino Programming
 * [NDEF](https://github.com/don/NDEF) - Read and Write NDEF Messages to NFC tags with Arduino
 * [rosserial](https://github.com/ros-drivers/rosserial) - ROS client library for small, embedded devices, such as Arduino
@@ -104,11 +104,11 @@ A curated list of awesome Arduino hardwares, libraries and projects
 * [Arduino-EasyTransfer](https://github.com/madsci1016/Arduino-EasyTransfer) - An Easy way to Transfer data between Arduinos
 * [Arduino-SerialCommand](https://github.com/kroimon/Arduino-SerialCommand) - A Wiring/Arduino library to tokenize and parse commands received over a serial port.
 * [TMRpcm](https://github.com/TMRh20/TMRpcm) - Arduino library for asynchronous playback of PCM/WAV files direct from SD card
-* [Mozzi](https://github.com/sensorium/Mozzi) - a sound synthesis library for Arduino
+* [Mozzi](https://github.com/sensorium/Mozzi) - A sound synthesis library for Arduino
 * [StandardCplusplus](https://github.com/maniacbug/StandardCplusplus) - Standard C++ for Arduino (port of uClibc++) 
 * [ArdOSC](https://github.com/recotana/ArdOSC) - Open Sound Control(OSC) Library for Arduino 
-* [OSC](https://github.com/CNMAT/OSC) -  Arduino and Teensy implementation of OSC encoding
-* [arduino-serial](https://github.com/todbot/arduino-serial) - Example C and Java host code to talking to an arduino or other "serial" device
+* [OSC](https://github.com/CNMAT/OSC) - Arduino and Teensy implementation of OSC encoding
+* [arduino-serial](https://github.com/todbot/arduino-serial) - Example C and Java host code to talking to an Arduino or other "serial" device
 * [Bounce2](https://github.com/thomasfredericks/Bounce2) - Debouncing library for Arduino or Wiring 
 * [ArduinoThread](https://github.com/ivanseidel/ArduinoThread) - A simple way to run Threads on Arduino
 * [AdaEncoder](https://github.com/GreyGnome/AdaEncoder) - Library for handling quadrature encoders for the Arduino microcontroller
@@ -156,7 +156,7 @@ A curated list of awesome Arduino hardwares, libraries and projects
 * [socket.io-arduino-client](https://github.com/billroy/socket.io-arduino-client) - A socket.io client for the Arduino Ethernet shield 
 * [Arduino-IPv6Stack](https://github.com/telecombretagne/Arduino-IPv6Stack) - IPv6 stack for Arduino and Xbee based on Contiki OS network stack 
 * [MQTT-SN-Arduino](https://github.com/boriz/MQTT-SN-Arduino) - Connecting mesh network to the MQTT broker and tunneling MQTT protocol over Websocket
-* [ArduinoDuePolarSSLClient](https://github.com/tomconte/ArduinoDuePolarSSLClient) - sample Arduino Due sketch connecting to a PolarSSL server using PSK authentication
+* [ArduinoDuePolarSSLClient](https://github.com/tomconte/ArduinoDuePolarSSLClient) - Sample Arduino Due sketch connecting to a PolarSSL server using PSK authentication
 * [arduino-mqtt](https://github.com/256dpi/arduino-mqtt) - MQTT library for Arduino based on the Eclipse Paho projects 
 * [aWOT](https://github.com/lasselukkari/aWOT) - Arduino web server library
 * [arduinoWebSockets](https://github.com/Links2004/arduinoWebSockets) - WebSocket Server and Client for Arduino
@@ -169,15 +169,15 @@ A curated list of awesome Arduino hardwares, libraries and projects
 
 * [platformio](https://github.com/platformio/platformio) - Cross-platform code builder and the missing library manager ....
 * [arduino-cmake](https://github.com/queezythegreat/arduino-cmake) - Arduino CMake Build system 
-* [bitlash](https://github.com/billroy/bitlash) - a programmable command shell for arduino
+* [bitlash](https://github.com/billroy/bitlash) - A programmable command shell for Arduino
 * [arduino-shell](https://github.com/nuket/arduino-shell) - A command shell to interact with built-in Arduino features
 
 *Display library*
 
-* [Arduino_LCD_Menu](https://github.com/DavidAndrews/Arduino_LCD_Menu) -  creates menu systems primarily useful for 16x2 or 16x4 LCD displays
+* [Arduino_LCD_Menu](https://github.com/DavidAndrews/Arduino_LCD_Menu) - Creates menu systems primarily useful for 16x2 or 16x4 LCD displays
 * [LiquidTWI2](https://github.com/lincomatic/LiquidTWI2) - high speed I2C LCD Library for Arduino, which supports MCP23008 and MCP23017 
-* [MENWIZ](https://github.com/brunialti/MENWIZ) - LCD menu library: short user code to manage complex menu structures 
-* [u8glib](https://github.com/olikraus/u8glib) - Arduino Monochrom Graphics Library for LCDs and OLEDs
+* [MENWIZ](https://github.com/brunialti/MENWIZ) - LCD menu library: Short user code to manage complex menu structures 
+* [u8glib](https://github.com/olikraus/u8glib) - Arduino Monochrome Graphics Library for LCDs and OLEDs
 * [ucglib](https://github.com/olikraus/ucglib) - Arduino True Color Library for TFTs and OLEDs
 
 *Binding and API library*
@@ -191,9 +191,9 @@ A curated list of awesome Arduino hardwares, libraries and projects
 * [usb-serial-for-android](https://github.com/mik3y/usb-serial-for-android) - Android USB host serial driver library for CDC, FTDI, Arduino and other devices
 * [serial-port-json-server](https://github.com/johnlauer/serial-port-json-server) - A serial port JSON websocket server communicate with Arduino
 * [PhysicaloidLibrary](https://github.com/ksksue/PhysicaloidLibrary) - Android Library for communicating with physical-computing boards
-* [blynk-server](https://github.com/blynkkk/blynk-server) - Platform with iOs and Android apps to control Arduino
+* [blynk-server](https://github.com/blynkkk/blynk-server) - Platform with iOS and Android apps to control Arduino
 * [rad](https://github.com/atduskgreg/rad) - Ruby Arduino Development
-* [ardublock](https://github.com/taweili/ardublock) - a Block Programming Language for Arduino
+* [ardublock](https://github.com/taweili/ardublock) - A Block Programming Language for Arduino
 * [arduino-api](https://github.com/plotly/arduino-api) - Arduino library for real-time logging and streaming data to online plotly graphs
 * [dino](https://github.com/austinbv/dino) - Dino is a ruby gem that helps you bootstrap prototyping with an Arduino
 * [duino](https://github.com/ecto/duino) - Arduino framework for node.js
@@ -210,7 +210,7 @@ A curated list of awesome Arduino hardwares, libraries and projects
 *Math library*
 
 * [Arduino-signal-filtering-library](https://github.com/jeroendoggen/Arduino-signal-filtering-library) - Arduino library for signal filtering
-* [Gaussian](https://github.com/ivanseidel/Gaussian) -  Gaussian filter for arduino
+* [Gaussian](https://github.com/ivanseidel/Gaussian) - Gaussian filter for Arduino
 
 ## HardwareBoard
 
@@ -224,18 +224,18 @@ A curated list of awesome Arduino hardwares, libraries and projects
 
 *Arduino developments*
 
-* [arduino](https://github.com/arduino/Arduino) - office arduino ide
+* [arduino](https://github.com/arduino/Arduino) - Official Arduino IDE
 * [ESP8266 IDE](https://github.com/esp8266/Arduino) - Arduino IDE for ESP8266
 * [Stino](https://github.com/Robot-Will/Stino) - A Sublime Text Plugin for Arduino
 * [attiny](https://github.com/damellis/attiny) - ATtiny microcontroller support for the Arduino IDE
-* [arduinounit](https://github.com/mmurdoch/arduinounit) -  a unit testing framework for Arduino libraries 
+* [arduinounit](https://github.com/mmurdoch/arduinounit) - A unit testing framework for Arduino libraries 
 * [Arduino-Makefile](https://github.com/sudar/Arduino-Makefile) - Makefile for Arduino sketches
 * [arduino_sketches](https://github.com/nickgammon/arduino_sketches) - Publicly-released sketches for the Arduino microprocessor 
 * [arduino-builder](https://github.com/arduino/arduino-builder) - A command line tool for compiling Arduino sketches 
-* [arduinounit](https://github.com/mmurdoch/arduinounit) - a unit testing framework for Arduino libraries 
-* [arduino-eclipse-plugin](https://github.com/jantje/arduino-eclipse-plugin) - A plugin to make programming the arduino in eclipse easy
+* [arduinounit](https://github.com/mmurdoch/arduinounit) - A unit testing framework for Arduino libraries 
+* [arduino-eclipse-plugin](https://github.com/jantje/arduino-eclipse-plugin) - A plugin to make programming the Arduino in Eclipse easy
 * [dueboot](https://github.com/jensnockert/dueboot) - Rust on the Arduino Due
-* [Arduino-Designer](https://github.com/mbats/arduino) - Graphic Arduino designer base on eclipse
+* [Arduino-Designer](https://github.com/mbats/arduino) - Graphic Arduino designer based on Eclipse
 
 ## Tutorials
 
@@ -252,18 +252,18 @@ A curated list of awesome Arduino hardwares, libraries and projects
 
 *Projects with Arduino*
 
-* [arduinoscope](https://github.com/konsumer/arduinoscope) - An oscilloscope, using arduino and processing/node
+* [arduinoscope](https://github.com/konsumer/arduinoscope) - An oscilloscope, using Arduino and Processing/node
 * [ArduinoPlot](https://github.com/gregpinero/ArduinoPlot) - Real time Plot Numeric Values sent from Arduino over Serial Port 
 * [ArduinoISP](https://github.com/rsbohn/ArduinoISP) - Use the Arduino to program AVR chips
 * [arduino-sms-alarm](https://github.com/mattwilliamson/arduino-sms-alarm) - An Arduino based burglar alarm that sends an SMS when motion is detected
 * [QUADCOPTER_V2](https://github.com/vjaunet/QUADCOPTER_V2) - A quadcopter project based on Raspberry Pi and Arduino 
-* [Arduino Time Lapse Panorama Controller](http://www.instructables.com/id/Arduino-Time-Lapse-Panorama-Controller/) - The controller will rotate your GoPro over a set angle for a set duration or will rotate you GoPro for a full rotation for a set duration
-* [Erbbie Desktop Garden](http://www.instructables.com/id/Erbbie-Desktop-Smart-Garden/?ALLSTEPS) - is a DIY desktop smart garden designed to give everyone a green thumb
+* [Arduino Time Lapse Panorama Controller](http://www.instructables.com/id/Arduino-Time-Lapse-Panorama-Controller/) - The controller will rotate your GoPro over a set angle for a set duration or will rotate your GoPro for a full rotation for a set duration
+* [Erbbie Desktop Garden](http://www.instructables.com/id/Erbbie-Desktop-Smart-Garden/?ALLSTEPS) - A DIY desktop smart garden designed to give everyone a green thumb
 * [Smart Garden](http://www.instructables.com/id/Smart-Garden-1/?ALLSTEPS) - clone of Erbbie
-* [Temperature controlled craft beer coolbox](http://www.instructables.com/id/temperature-controlled-craft-beer-coolbox/) - a coolbox in which you can control the temperature in three separate compartments 
+* [Temperature controlled craft beer coolbox](http://www.instructables.com/id/temperature-controlled-craft-beer-coolbox/) - A coolbox in which you can control the temperature in three separate compartments 
 
 ## usage
-work in 'git bash' at windows with git installed or linux os
+work in 'git bash' at Windows with Git installed or Linux OS
 
 ```bash
 sh update.sh
