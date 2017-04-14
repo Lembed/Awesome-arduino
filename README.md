@@ -2,7 +2,7 @@
 A curated list of awesome Arduino hardware, libraries and projects
 - [Awesome Arduino](#awesome-Arduino)
  	- [Libraries](#libraries)
-    - [HardwareBoard](#HardwareBoard)
+    - [HardwareBoard](#hardwareboard)
     - [IDE](#ide)
     - [Tutorials](#tutorials)
     - [Projects](#projects)
