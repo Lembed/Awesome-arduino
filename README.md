@@ -48,7 +48,7 @@ A curated list of awesome Arduino hardware, libraries and projects
 * [HX711](https://github.com/bogde/HX711) - An Arduino library Semiconductor HX711 ADC for Weight Scales.
 * [MiniPirate](https://github.com/chatelao/MiniPirate) - Arduino Serial Command Tool
 * [LedControl](https://github.com/wayoda/LedControl) - An Arduino library for MAX7219 and MAX7221 Led display drivers
-* [arduino-BLEPeripheral](https://github.com/sandeepmistry/arduino-BLEPeripheral) - An Arduino library for creating custom BLE peripherals with Nordic Semiconductor's nRF8001 or nR51822
+* [arduino-BLEPeripheral](https://github.com/sandeepmistry/arduino-BLEPeripheral) - Arduino library for creating custom BLE peripherals with Nordic Semiconductor's nRF8001 or nR51822
 * [BTLE](https://github.com/floe/BTLE) - Library for basic Bluetooth Low Energy with the nRF24L01+
 * [BH1750](https://github.com/claws/BH1750) - An Arduino library for the digital light sensor BH1750FVI
 * [Arduino-GP2Y0A21YK-library](https://github.com/jeroendoggen/Arduino-GP2Y0A21YK-library) - Arduino library for the Sharp GP2Y0A21YK IR Distance sensor
