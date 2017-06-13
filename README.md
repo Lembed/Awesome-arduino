@@ -175,6 +175,7 @@ A curated list of awesome Arduino hardware, libraries and projects
 *Display library*
 
 * [Arduino_LCD_Menu](https://github.com/DavidAndrews/Arduino_LCD_Menu) - Creates menu systems primarily useful for 16x2 or 16x4 LCD displays
+* [LiquidMenu](https://github.com/VaSe7u/LiquidMenu) - Menu creation library for HD44780 LCDs (parallel and I2C), wraps LiquidCrystal.
 * [LiquidTWI2](https://github.com/lincomatic/LiquidTWI2) - high speed I2C LCD Library for Arduino, which supports MCP23008 and MCP23017
 * [MENWIZ](https://github.com/brunialti/MENWIZ) - LCD menu library: Short user code to manage complex menu structures
 * [u8glib](https://github.com/olikraus/u8glib) - Arduino Monochrome Graphics Library for LCDs and OLEDs
