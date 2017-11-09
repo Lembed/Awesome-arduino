@@ -57,7 +57,6 @@ A curated list of awesome Arduino hardware, libraries and projects
 * [Arduino-Temperature-Control-Library](https://github.com/milesburton/Arduino-Temperature-Control-Library) - Arduino Library for Maxim Temperature Integrated Circuits
 * [RGB-matrix-Panel](https://github.com/adafruit/RGB-matrix-Panel) - Arduino library and example code for the 16x32 RGB matrix panels
 * [Time](https://github.com/PaulStoffregen/Time) - Time library for Arduino
-* [Arduino-JSON](https://github.com/bblanchon/ArduinoJson) - An elegant and efficient JSON library for embedded systems
 * [modbusino](https://github.com/stephane/modbusino) - Small Modbus slave, RTU (serial) for Arduino
 * [simplemodbusng](https://github.com/angeloc/simplemodbusng) - Modbus RTU Slave/Master for the Arduino
 
@@ -73,7 +72,7 @@ A curated list of awesome Arduino hardware, libraries and projects
 * [i2cdevlib](https://github.com/jrowberg/i2cdevlib) - I2C device library collection for AVR/Arduino or other C++-based MCUs
 * [keysweeper](https://github.com/samyk/keysweeper) - KeySweeper is a stealthy Arduino-based device, camouflaged as a functioning USB ....
 * [aJson](https://github.com/interactive-matter/aJson) - an Arduino library to enable JSON processing with Arduino
-* [ArduinoJson](https://github.com/bblanchon/ArduinoJson) - An efficient JSON library for embedded systems
+* [ArduinoJson](https://arduinojson.org) - C++ JSON library for IoT. Simple and efficient.
 * [json-streaming-parser](https://github.com/squix78/json-streaming-parser) - Library for parsing potentially huge json streams on devices with scarce memory
 * [USB_Host_Shield_2.0](https://github.com/felis/USB_Host_Shield_2.0) - Revision 2.0 of USB Host Library for Arduino
 * [pubsubclient](https://github.com/knolleary/pubsubclient) - A client library for the Arduino Ethernet Shield that provides support for MQTT
