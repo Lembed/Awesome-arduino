@@ -59,6 +59,7 @@ A curated list of awesome Arduino hardware, libraries and projects
 * [Time](https://github.com/PaulStoffregen/Time) - Time library for Arduino
 * [modbusino](https://github.com/stephane/modbusino) - Small Modbus slave, RTU (serial) for Arduino
 * [simplemodbusng](https://github.com/angeloc/simplemodbusng) - Modbus RTU Slave/Master for the Arduino
+* [Zino](https://github.com/saleem-hadad/zino) - Custom C++ based library provides a convenient and fast way for developing embedded systems projects.
 
 *Bootloader*
 
