@@ -248,6 +248,7 @@ A curated list of awesome Arduino hardware, libraries and projects
 * [DUEZoo](https://github.com/manitou48/DUEZoo) - Some proof-of-concept sketches and results for Arduino DUE
 * [programming_arduino](https://github.com/simonmonk/programming_arduino) - Code for the book Programming Arduino: Getting Started with Sketches
 * [ArduinoExamples](https://github.com/renaun/ArduinoExamples) - Arduino Blink Chrome App
+* [Programming Community Curated Resources for learning Arduino](https://hackr.io/tutorials/learn-arduino)
 
 ## Projects
 
