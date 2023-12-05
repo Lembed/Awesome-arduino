@@ -211,7 +211,7 @@ A curated list of awesome Arduino hardware, libraries and projects
 
 * [Arduino-signal-filtering-library](https://github.com/jeroendoggen/Arduino-signal-filtering-library) - Arduino library for signal filtering
 * [Gaussian](https://github.com/ivanseidel/Gaussian) - Gaussian filter for Arduino
-
+* [ZikoMatrix](https://github.com/zakarialaoui10/ZikoMatrix) - Create and manipulate matrices of arbitrary size and data type for arduino and its alternatives .
 ## HardwareBoard
 
 *Hardware board for arduino diy.*
