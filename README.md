@@ -59,6 +59,7 @@ A curated list of awesome Arduino hardware, libraries and projects
 * [Time](https://github.com/PaulStoffregen/Time) - Time library for Arduino
 * [modbusino](https://github.com/stephane/modbusino) - Small Modbus slave, RTU (serial) for Arduino
 * [simplemodbusng](https://github.com/angeloc/simplemodbusng) - Modbus RTU Slave/Master for the Arduino
+* [ZikoMatrix](https://github.com/zakarialaoui10/ZikoMatrix) - Create and manipulate matrices of arbitrary size and data type for arduino and its alternatives
 
 *Bootloader*
 
