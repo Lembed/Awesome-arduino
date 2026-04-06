@@ -7,6 +7,7 @@ A curated list of awesome Arduino hardware, libraries and projects
     - [Tutorials](#tutorials)
     - [Projects](#projects)
 - [Contributing](#contributing)
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for Arduino IoT workflow orchestration, automated embedded systems management, and multi-agent coordination. MIT licensed.
 
 
 ## Libraries
