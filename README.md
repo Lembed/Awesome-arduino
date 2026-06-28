@@ -159,6 +159,7 @@ A curated list of awesome Arduino hardware, libraries and projects
 * [arduino-mqtt](https://github.com/256dpi/arduino-mqtt) - MQTT library for Arduino based on the Eclipse Paho projects
 * [aWOT](https://github.com/lasselukkari/aWOT) - Arduino web server library
 * [arduinoWebSockets](https://github.com/Links2004/arduinoWebSockets) - WebSocket Server and Client for Arduino
+* [RisalDash](https://github.com/ziyarago/RisalDash) - Beautiful real-time web dashboards for ESP32/ESP8266 in a few lines of C++; Zero-Waste UI, offline captive portal, WebSocket, i18n, MCP
 * [HttpClient](https://github.com/amcewen/HttpClient) - Arduino HTTP library
 * [aws-iot-device-sdk-arduino-yun](https://github.com/aws/aws-iot-device-sdk-arduino-yun) - SDK for connecting to AWS IoT from an Arduino Yún.
 * [HttpClient](https://github.com/amcewen/HttpClient) - Arduino HTTP library
