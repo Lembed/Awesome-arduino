@@ -262,6 +262,9 @@ A curated list of awesome Arduino hardware, libraries and projects
 * [Erbbie Desktop Garden](http://www.instructables.com/id/Erbbie-Desktop-Smart-Garden/?ALLSTEPS) - A DIY desktop smart garden designed to give everyone a green thumb
 * [Smart Garden](http://www.instructables.com/id/Smart-Garden-1/?ALLSTEPS) - clone of Erbbie
 * [Temperature controlled craft beer coolbox](http://www.instructables.com/id/temperature-controlled-craft-beer-coolbox/) - A coolbox in which you can control the temperature in three separate compartments
+* [PyServoArm-6DOF](https://github.com/Salim-Ammar/PyServoArm-6DOF) - Wireless 6-axis robotic arm with Python GUI, ESP32-CAM streaming, and serial servo control
+* [Revolving-Pyramid-Hotel](https://github.com/Salim-Ammar/Revolving-Pyramid-Hotel) - IoT hotel management system with fire detection, light tracking, and motor control
+* [MATLAB-4DOF-RobotArm](https://github.com/Salim-Ammar/MATLAB-4DOF-RobotArm) - 4-DOF robotic arm with MATLAB GUI and inverse kinematics
 
 ## Usage
 work in 'git bash' at Windows with Git installed or Linux OS
