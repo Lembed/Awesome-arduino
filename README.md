@@ -237,6 +237,7 @@ A curated list of awesome Arduino hardware, libraries and projects
 * [dueboot](https://github.com/jensnockert/dueboot) - Rust on the Arduino Due
 * [Arduino-Designer](https://github.com/mbats/arduino) - Graphic Arduino designer based on Eclipse
 * [XOD](https://xod.io/) - Open source visual programming language and IDE
+* [GaziDuino](https://github.com/Gazi-AI/GaziDuino) - Web-based Arduino IDE with WebSerial flashing and Android OTG support.
 
 ## Tutorials
 
