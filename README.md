@@ -12,6 +12,7 @@ A curated list of awesome Arduino hardware, libraries and projects
 ## Libraries
 
 *Hardware dependent library*
+* [LighthouseReckoning](https://github.com/TidalImpact/LighthouseReckoning) - Lightweight LoRa mesh networking library with automatic multi-hop routing, hop-by-hop acknowledgments and local retries.
 * [rtclib](https://github.com/jcw/rtclib) - A lightweight date and time library for JeeNodes and Arduinos
 * [RFM69](https://github.com/LowPowerLab/RFM69) - RFM69 library for RFM69W and RFM69HW (Semtech SX1231, SX1231H)
 * [RFM12B](https://github.com/LowPowerLab/RFM12B) - Arduino RFM12B library
