@@ -263,6 +263,8 @@ A curated list of awesome Arduino hardware, libraries and projects
 * [Smart Garden](http://www.instructables.com/id/Smart-Garden-1/?ALLSTEPS) - clone of Erbbie
 * [Temperature controlled craft beer coolbox](http://www.instructables.com/id/temperature-controlled-craft-beer-coolbox/) - A coolbox in which you can control the temperature in three separate compartments
 
+* [arduino-quake-flicker-lamp](https://github.com/Pakequis/arduino-quake-flicker-lamp) - A flicker lamp with the light patterns used in Quake and Half-Life
+* [arcade-led-light](https://github.com/Pakequis/arcade-led-light) - LED button effects for arcade cabinets, with a sequencer after idle time
 ## Usage
 work in 'git bash' at Windows with Git installed or Linux OS
 
