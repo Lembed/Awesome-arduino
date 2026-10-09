@@ -225,6 +225,7 @@ A curated list of awesome Arduino hardware, libraries and projects
 *Arduino developments*
 
 * [arduino](https://github.com/arduino/Arduino) - Official Arduino IDE
+* [CavalloCode](https://github.com/Cavallo-Enterprises/CavalloCode) - Open-source desktop IDE with built-in ESP32 and Raspberry Pi Pico board extensions, local PlatformIO builds, and integrated serial monitoring and plotting.
 * [ESP8266 IDE](https://github.com/esp8266/Arduino) - Arduino IDE for ESP8266
 * [Stino](https://github.com/Robot-Will/Stino) - A Sublime Text Plugin for Arduino
 * [attiny](https://github.com/damellis/attiny) - ATtiny microcontroller support for the Arduino IDE
