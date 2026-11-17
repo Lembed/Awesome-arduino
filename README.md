@@ -133,6 +133,7 @@ A curated list of awesome Arduino hardware, libraries and projects
 * [LinkedList](https://github.com/ivanseidel/LinkedList) - A fully implemented LinkedList made to work with Arduino projects
 * [VirtualUsbKeyboard](https://github.com/practicalarduino/VirtualUsbKeyboard) - Virtual an Arduino as a HID device
 * [virtual-shields-arduino](https://github.com/ms-iot/virtual-shields-arduino) - Windows Virtual Shields for Arduino library
+* [NLTP](https://github.com/indian-aman/NLTP-Arduino) - Zero-malloc C99 encrypted ESP-NOW and UDP transport library with LZ4 compression and GF(2^8) forward error correction (`4.76 KB` static RAM)
 
 *3D Printer .*
 
